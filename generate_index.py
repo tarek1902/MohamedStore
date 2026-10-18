@@ -13,6 +13,7 @@ data = {
     "version": "1.0",
     "categories": {
         "plugins": [],
+        "panels": [],
         "skins": [],
         "tools": [],
         "system_images": [],
