@@ -221,7 +221,7 @@
                 "image": ""
             }
         ],
-        "panels": [],
+        "panels": [
                     {
                         "name": "epanel",
                         "description": "panel-بانل ممتاز شامل",
