@@ -4221,7 +4221,7 @@ def main(session, **kwargs):
 def Plugins(**kwargs):
     return [
         PluginDescriptor(
-            name="Mohamed Store",
+            name="Tarek-panel",
             description="Download and install addons, plugins, and softcams",
             where=PluginDescriptor.WHERE_PLUGINMENU,
             icon="plugin.png",
