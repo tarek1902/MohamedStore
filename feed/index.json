@@ -4,9 +4,9 @@
     "categories": {
         "plugins": [
             {
-                "name": "0",
-                "description": "Plugin Extension",
-                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/0",
+               "name": "AJPanel",
+                "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/AJPanel.sh",
                 "image": ""
             },
             {
