@@ -14474,5 +14474,1369 @@
     "skins/n": {
         "name": "n",
         "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "main/plugins/0": {
+        "name": "0",
+        "description": "Plugin Extension"
+    },
+    "MohamedStore/main/plugins/0": {
+        "name": "0",
+        "description": "Plugin Extension"
+    },
+    "wwwgoper77-wq/MohamedStore/main/plugins/0": {
+        "name": "0",
+        "description": "Plugin Extension"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/0": {
+        "name": "0",
+        "description": "Plugin Extension"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/0": {
+        "name": "0",
+        "description": "Plugin Extension"
+    },
+    "plugins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/0": {
+        "name": "0",
+        "description": "Plugin Extension"
+    },
+    "main/plugins/AJPanel.sh": {
+        "name": "AJPanel",
+        "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2"
+    },
+    "MohamedStore/main/plugins/AJPanel.sh": {
+        "name": "AJPanel",
+        "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2"
+    },
+    "wwwgoper77-wq/MohamedStore/main/plugins/AJPanel.sh": {
+        "name": "AJPanel",
+        "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/AJPanel.sh": {
+        "name": "AJPanel",
+        "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/AJPanel.sh": {
+        "name": "AJPanel",
+        "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2"
+    },
+    "plugins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/AJPanel.sh": {
+        "name": "AJPanel",
+        "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2"
+    },
+    "main/plugins/Akwam.zip": {
+        "name": "Akwam",
+        "description": "بلجن اكوام خاص بالبنل"
+    },
+    "MohamedStore/main/plugins/Akwam.zip": {
+        "name": "Akwam",
+        "description": "بلجن اكوام خاص بالبنل"
+    },
+    "wwwgoper77-wq/MohamedStore/main/plugins/Akwam.zip": {
+        "name": "Akwam",
+        "description": "بلجن اكوام خاص بالبنل"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Akwam.zip": {
+        "name": "Akwam",
+        "description": "بلجن اكوام خاص بالبنل"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Akwam.zip": {
+        "name": "Akwam",
+        "description": "بلجن اكوام خاص بالبنل"
+    },
+    "plugins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Akwam.zip": {
+        "name": "Akwam",
+        "description": "بلجن اكوام خاص بالبنل"
+    },
+    "main/plugins/Alkuds ipaudio MAC Xtreme.sh": {
+        "name": "Alkuds ipaudio MAC Xtreme",
+        "description": "تشغيل ملفات M3U وملفات اخرى"
+    },
+    "MohamedStore/main/plugins/Alkuds ipaudio MAC Xtreme.sh": {
+        "name": "Alkuds ipaudio MAC Xtreme",
+        "description": "تشغيل ملفات M3U وملفات اخرى"
+    },
+    "wwwgoper77-wq/MohamedStore/main/plugins/Alkuds ipaudio MAC Xtreme.sh": {
+        "name": "Alkuds ipaudio MAC Xtreme",
+        "description": "تشغيل ملفات M3U وملفات اخرى"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Alkuds ipaudio MAC Xtreme.sh": {
+        "name": "Alkuds ipaudio MAC Xtreme",
+        "description": "تشغيل ملفات M3U وملفات اخرى"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Alkuds ipaudio MAC Xtreme.sh": {
+        "name": "Alkuds ipaudio MAC Xtreme",
+        "description": "تشغيل ملفات M3U وملفات اخرى"
+    },
+    "plugins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Alkuds ipaudio MAC Xtreme.sh": {
+        "name": "Alkuds ipaudio MAC Xtreme",
+        "description": "تشغيل ملفات M3U وملفات اخرى"
+    },
+    "main/plugins/enigma2-plugin-extensions-uninstaller_1.0_all.ipk": {
+        "name": "Plugin Uninstaller",
+        "description": "أداة حذف وإزالة البلجنات وحزم التثبيت وحذف مخلفاتها"
+    },
+    "MohamedStore/main/plugins/enigma2-plugin-extensions-uninstaller_1.0_all.ipk": {
+        "name": "Plugin Uninstaller",
+        "description": "أداة حذف وإزالة البلجنات وحزم التثبيت وحذف مخلفاتها"
+    },
+    "wwwgoper77-wq/MohamedStore/main/plugins/enigma2-plugin-extensions-uninstaller_1.0_all.ipk": {
+        "name": "Plugin Uninstaller",
+        "description": "أداة حذف وإزالة البلجنات وحزم التثبيت وحذف مخلفاتها"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/enigma2-plugin-extensions-uninstaller_1.0_all.ipk": {
+        "name": "Plugin Uninstaller",
+        "description": "أداة حذف وإزالة البلجنات وحزم التثبيت وحذف مخلفاتها"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/enigma2-plugin-extensions-uninstaller_1.0_all.ipk": {
+        "name": "Plugin Uninstaller",
+        "description": "أداة حذف وإزالة البلجنات وحزم التثبيت وحذف مخلفاتها"
+    },
+    "plugins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/enigma2-plugin-extensions-uninstaller_1.0_all.ipk": {
+        "name": "Plugin Uninstaller",
+        "description": "أداة حذف وإزالة البلجنات وحزم التثبيت وحذف مخلفاتها"
+    },
+    "main/plugins/ipa udio pro_1.7.ipk": {
+        "name": "IPAudio Pro3.12",
+        "description": "تشغيل الصوتيات والقنوات الصوتية لمطابقة التعليق العربي"
+    },
+    "MohamedStore/main/plugins/ipa udio pro_1.7.ipk": {
+        "name": "IPAudio Pro3.12",
+        "description": "تشغيل الصوتيات والقنوات الصوتية لمطابقة التعليق العربي"
+    },
+    "wwwgoper77-wq/MohamedStore/main/plugins/ipa udio pro_1.7.ipk": {
+        "name": "IPAudio Pro3.12",
+        "description": "تشغيل الصوتيات والقنوات الصوتية لمطابقة التعليق العربي"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/ipa udio pro_1.7.ipk": {
+        "name": "IPAudio Pro3.12",
+        "description": "تشغيل الصوتيات والقنوات الصوتية لمطابقة التعليق العربي"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/ipa udio pro_1.7.ipk": {
+        "name": "IPAudio Pro3.12",
+        "description": "تشغيل الصوتيات والقنوات الصوتية لمطابقة التعليق العربي"
+    },
+    "plugins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/ipa udio pro_1.7.ipk": {
+        "name": "IPAudio Pro3.12",
+        "description": "تشغيل الصوتيات والقنوات الصوتية لمطابقة التعليق العربي"
+    },
+    "main/plugins/mytranslator_1.74.ipk": {
+        "name": "My Translator",
+        "description": "ترجمة سريعة للقوائم والأحداث والمحتوى التلفزيوني"
+    },
+    "MohamedStore/main/plugins/mytranslator_1.74.ipk": {
+        "name": "My Translator",
+        "description": "ترجمة سريعة للقوائم والأحداث والمحتوى التلفزيوني"
+    },
+    "wwwgoper77-wq/MohamedStore/main/plugins/mytranslator_1.74.ipk": {
+        "name": "My Translator",
+        "description": "ترجمة سريعة للقوائم والأحداث والمحتوى التلفزيوني"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/mytranslator_1.74.ipk": {
+        "name": "My Translator",
+        "description": "ترجمة سريعة للقوائم والأحداث والمحتوى التلفزيوني"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/mytranslator_1.74.ipk": {
+        "name": "My Translator",
+        "description": "ترجمة سريعة للقوائم والأحداث والمحتوى التلفزيوني"
+    },
+    "plugins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/mytranslator_1.74.ipk": {
+        "name": "My Translator",
+        "description": "ترجمة سريعة للقوائم والأحداث والمحتوى التلفزيوني"
+    },
+    "main/skins/All/MX-HC2-MOD-By-RAED.ipk": {
+        "name": "MX HC2 MOD By RAED",
+        "description": "سكين MX HC2 MOD By RAED عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "MohamedStore/main/skins/All/MX-HC2-MOD-By-RAED.ipk": {
+        "name": "MX HC2 MOD By RAED",
+        "description": "سكين MX HC2 MOD By RAED عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "wwwgoper77-wq/MohamedStore/main/skins/All/MX-HC2-MOD-By-RAED.ipk": {
+        "name": "MX HC2 MOD By RAED",
+        "description": "سكين MX HC2 MOD By RAED عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MX-HC2-MOD-By-RAED.ipk": {
+        "name": "MX HC2 MOD By RAED",
+        "description": "سكين MX HC2 MOD By RAED عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MX-HC2-MOD-By-RAED.ipk": {
+        "name": "MX HC2 MOD By RAED",
+        "description": "سكين MX HC2 MOD By RAED عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "skins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MX-HC2-MOD-By-RAED.ipk": {
+        "name": "MX HC2 MOD By RAED",
+        "description": "سكين MX HC2 MOD By RAED عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "main/skins/All/MohammedSkin.sh": {
+        "name": "MohammedSkin",
+        "description": "الصور المدعومه OpenBH، OpenViX، OpenATV، PurE2، EGAMI"
+    },
+    "MohamedStore/main/skins/All/MohammedSkin.sh": {
+        "name": "MohammedSkin",
+        "description": "الصور المدعومه OpenBH، OpenViX، OpenATV، PurE2، EGAMI"
+    },
+    "wwwgoper77-wq/MohamedStore/main/skins/All/MohammedSkin.sh": {
+        "name": "MohammedSkin",
+        "description": "الصور المدعومه OpenBH، OpenViX، OpenATV، PurE2، EGAMI"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MohammedSkin.sh": {
+        "name": "MohammedSkin",
+        "description": "الصور المدعومه OpenBH، OpenViX، OpenATV، PurE2، EGAMI"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MohammedSkin.sh": {
+        "name": "MohammedSkin",
+        "description": "الصور المدعومه OpenBH، OpenViX، OpenATV، PurE2، EGAMI"
+    },
+    "skins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MohammedSkin.sh": {
+        "name": "MohammedSkin",
+        "description": "الصور المدعومه OpenBH، OpenViX، OpenATV، PurE2، EGAMI"
+    },
+    "main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk": {
+        "name": "BEIN BLACK NP FHD By Muaath",
+        "description": "سكين Skin-BEIN-BLACK-NP-FHD-By-Muaath عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "MohamedStore/main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk": {
+        "name": "BEIN BLACK NP FHD By Muaath",
+        "description": "سكين Skin-BEIN-BLACK-NP-FHD-By-Muaath عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "wwwgoper77-wq/MohamedStore/main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk": {
+        "name": "BEIN BLACK NP FHD By Muaath",
+        "description": "سكين Skin-BEIN-BLACK-NP-FHD-By-Muaath عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk": {
+        "name": "BEIN BLACK NP FHD By Muaath",
+        "description": "سكين Skin-BEIN-BLACK-NP-FHD-By-Muaath عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk": {
+        "name": "BEIN BLACK NP FHD By Muaath",
+        "description": "سكين Skin-BEIN-BLACK-NP-FHD-By-Muaath عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "skins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk": {
+        "name": "BEIN BLACK NP FHD By Muaath",
+        "description": "سكين Skin-BEIN-BLACK-NP-FHD-By-Muaath عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "main/skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "MohamedStore/main/skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "wwwgoper77-wq/MohamedStore/main/skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "skins/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "main/tools/audio/Fox&Anis.sh": {
+        "name": "Fox&Anis",
+        "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و"
+    },
+    "MohamedStore/main/tools/audio/Fox&Anis.sh": {
+        "name": "Fox&Anis",
+        "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/audio/Fox&Anis.sh": {
+        "name": "Fox&Anis",
+        "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox&Anis.sh": {
+        "name": "Fox&Anis",
+        "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox&Anis.sh": {
+        "name": "Fox&Anis",
+        "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox&Anis.sh": {
+        "name": "Fox&Anis",
+        "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و"
+    },
+    "main/tools/audio/Fox-Anis-ahmad yahia-Quran.sh": {
+        "name": "Fox-Anis-ahmad yahia-Quran",
+        "description": "صوتيات شاملة فوكس- انيس - احمد يحيى - اذاعة القران الكريم"
+    },
+    "MohamedStore/main/tools/audio/Fox-Anis-ahmad yahia-Quran.sh": {
+        "name": "Fox-Anis-ahmad yahia-Quran",
+        "description": "صوتيات شاملة فوكس- انيس - احمد يحيى - اذاعة القران الكريم"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/audio/Fox-Anis-ahmad yahia-Quran.sh": {
+        "name": "Fox-Anis-ahmad yahia-Quran",
+        "description": "صوتيات شاملة فوكس- انيس - احمد يحيى - اذاعة القران الكريم"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox-Anis-ahmad yahia-Quran.sh": {
+        "name": "Fox-Anis-ahmad yahia-Quran",
+        "description": "صوتيات شاملة فوكس- انيس - احمد يحيى - اذاعة القران الكريم"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox-Anis-ahmad yahia-Quran.sh": {
+        "name": "Fox-Anis-ahmad yahia-Quran",
+        "description": "صوتيات شاملة فوكس- انيس - احمد يحيى - اذاعة القران الكريم"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox-Anis-ahmad yahia-Quran.sh": {
+        "name": "Fox-Anis-ahmad yahia-Quran",
+        "description": "صوتيات شاملة فوكس- انيس - احمد يحيى - اذاعة القران الكريم"
+    },
+    "main/tools/audio/r": {
+        "name": "r",
+        "description": "سكين r عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "MohamedStore/main/tools/audio/r": {
+        "name": "r",
+        "description": "سكين r عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/audio/r": {
+        "name": "r",
+        "description": "سكين r عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/r": {
+        "name": "r",
+        "description": "سكين r عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/r": {
+        "name": "r",
+        "description": "سكين r عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/r": {
+        "name": "r",
+        "description": "سكين r عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "main/tools/portals/0": {
+        "name": "0",
+        "description": "Portals Tool"
+    },
+    "MohamedStore/main/tools/portals/0": {
+        "name": "0",
+        "description": "Portals Tool"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/portals/0": {
+        "name": "0",
+        "description": "Portals Tool"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/0": {
+        "name": "0",
+        "description": "Portals Tool"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/0": {
+        "name": "0",
+        "description": "Portals Tool"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/0": {
+        "name": "0",
+        "description": "Portals Tool"
+    },
+    "main/tools/portals/cord_cutter_portal.sh": {
+        "name": "cord_cutter_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "MohamedStore/main/tools/portals/cord_cutter_portal.sh": {
+        "name": "cord_cutter_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/portals/cord_cutter_portal.sh": {
+        "name": "cord_cutter_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/cord_cutter_portal.sh": {
+        "name": "cord_cutter_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/cord_cutter_portal.sh": {
+        "name": "cord_cutter_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/cord_cutter_portal.sh": {
+        "name": "cord_cutter_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "main/tools/portals/fastopen_portal.sh": {
+        "name": "fastopen_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "MohamedStore/main/tools/portals/fastopen_portal.sh": {
+        "name": "fastopen_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/portals/fastopen_portal.sh": {
+        "name": "fastopen_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/fastopen_portal.sh": {
+        "name": "fastopen_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/fastopen_portal.sh": {
+        "name": "fastopen_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/fastopen_portal.sh": {
+        "name": "fastopen_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "main/tools/portals/nocable_portal.sh": {
+        "name": "nocable_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "MohamedStore/main/tools/portals/nocable_portal.sh": {
+        "name": "nocable_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/portals/nocable_portal.sh": {
+        "name": "nocable_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/nocable_portal.sh": {
+        "name": "nocable_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/nocable_portal.sh": {
+        "name": "nocable_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/nocable_portal.sh": {
+        "name": "nocable_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "main/tools/portals/remorize_soltan.sh": {
+        "name": "remorize_soltan",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "MohamedStore/main/tools/portals/remorize_soltan.sh": {
+        "name": "remorize_soltan",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/portals/remorize_soltan.sh": {
+        "name": "remorize_soltan",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/remorize_soltan.sh": {
+        "name": "remorize_soltan",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/remorize_soltan.sh": {
+        "name": "remorize_soltan",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/remorize_soltan.sh": {
+        "name": "remorize_soltan",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "main/tools/portals/tvmate_portal_1.sh": {
+        "name": "tvmate_portal_1",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "MohamedStore/main/tools/portals/tvmate_portal_1.sh": {
+        "name": "tvmate_portal_1",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_1.sh": {
+        "name": "tvmate_portal_1",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_1.sh": {
+        "name": "tvmate_portal_1",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_1.sh": {
+        "name": "tvmate_portal_1",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_1.sh": {
+        "name": "tvmate_portal_1",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "main/tools/portals/tvmate_portal_2.sh": {
+        "name": "tvmate_portal_2",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "MohamedStore/main/tools/portals/tvmate_portal_2.sh": {
+        "name": "tvmate_portal_2",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_2.sh": {
+        "name": "tvmate_portal_2",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_2.sh": {
+        "name": "tvmate_portal_2",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_2.sh": {
+        "name": "tvmate_portal_2",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_2.sh": {
+        "name": "tvmate_portal_2",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "main/tools/Ncam v15.8.sh": {
+        "name": "تثبيت محاكي Ncam v15.8",
+        "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam"
+    },
+    "MohamedStore/main/tools/Ncam v15.8.sh": {
+        "name": "تثبيت محاكي Ncam v15.8",
+        "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/Ncam v15.8.sh": {
+        "name": "تثبيت محاكي Ncam v15.8",
+        "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/Ncam v15.8.sh": {
+        "name": "تثبيت محاكي Ncam v15.8",
+        "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/Ncam v15.8.sh": {
+        "name": "تثبيت محاكي Ncam v15.8",
+        "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/Ncam v15.8.sh": {
+        "name": "تثبيت محاكي Ncam v15.8",
+        "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam"
+    },
+    "main/tools/OSCam 11964-VU": {
+        "name": "OSCam 11964-VU",
+        "description": "محاكي اوسكام"
+    },
+    "MohamedStore/main/tools/OSCam 11964-VU": {
+        "name": "OSCam 11964-VU",
+        "description": "محاكي اوسكام"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/OSCam 11964-VU": {
+        "name": "OSCam 11964-VU",
+        "description": "محاكي اوسكام"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/OSCam 11964-VU": {
+        "name": "OSCam 11964-VU",
+        "description": "محاكي اوسكام"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/OSCam 11964-VU": {
+        "name": "OSCam 11964-VU",
+        "description": "محاكي اوسكام"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/OSCam 11964-VU": {
+        "name": "OSCam 11964-VU",
+        "description": "محاكي اوسكام"
+    },
+    "main/tools/backup_cams.sh": {
+        "name": "حفظ اشتراكات الشيرنج",
+        "description": "أخذ نسخة احتياطية من ملفات OScam و NCam و CCcam وحفظها في مجلد آمن بالهارد أو الـ USB"
+    },
+    "MohamedStore/main/tools/backup_cams.sh": {
+        "name": "حفظ اشتراكات الشيرنج",
+        "description": "أخذ نسخة احتياطية من ملفات OScam و NCam و CCcam وحفظها في مجلد آمن بالهارد أو الـ USB"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/backup_cams.sh": {
+        "name": "حفظ اشتراكات الشيرنج",
+        "description": "أخذ نسخة احتياطية من ملفات OScam و NCam و CCcam وحفظها في مجلد آمن بالهارد أو الـ USB"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/backup_cams.sh": {
+        "name": "حفظ اشتراكات الشيرنج",
+        "description": "أخذ نسخة احتياطية من ملفات OScam و NCam و CCcam وحفظها في مجلد آمن بالهارد أو الـ USB"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/backup_cams.sh": {
+        "name": "حفظ اشتراكات الشيرنج",
+        "description": "أخذ نسخة احتياطية من ملفات OScam و NCam و CCcam وحفظها في مجلد آمن بالهارد أو الـ USB"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/backup_cams.sh": {
+        "name": "حفظ اشتراكات الشيرنج",
+        "description": "أخذ نسخة احتياطية من ملفات OScam و NCam و CCcam وحفظها في مجلد آمن بالهارد أو الـ USB"
+    },
+    "main/tools/backup_channels.sh": {
+        "name": "أخذ نسخة احتياطية للقنوات",
+        "description": "سكربت حفظ وباك اب لقائمة القنوات والمفضلات لديك"
+    },
+    "MohamedStore/main/tools/backup_channels.sh": {
+        "name": "أخذ نسخة احتياطية للقنوات",
+        "description": "سكربت حفظ وباك اب لقائمة القنوات والمفضلات لديك"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/backup_channels.sh": {
+        "name": "أخذ نسخة احتياطية للقنوات",
+        "description": "سكربت حفظ وباك اب لقائمة القنوات والمفضلات لديك"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/backup_channels.sh": {
+        "name": "أخذ نسخة احتياطية للقنوات",
+        "description": "سكربت حفظ وباك اب لقائمة القنوات والمفضلات لديك"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/backup_channels.sh": {
+        "name": "أخذ نسخة احتياطية للقنوات",
+        "description": "سكربت حفظ وباك اب لقائمة القنوات والمفضلات لديك"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/backup_channels.sh": {
+        "name": "أخذ نسخة احتياطية للقنوات",
+        "description": "سكربت حفظ وباك اب لقائمة القنوات والمفضلات لديك"
+    },
+    "main/tools/clean_crash.sh": {
+        "name": "تنظيف ملفات الكراش Crash",
+        "description": "سكربت حذف ملفات الكراش واللوغ المؤقتة لتوفير الذاكرة"
+    },
+    "MohamedStore/main/tools/clean_crash.sh": {
+        "name": "تنظيف ملفات الكراش Crash",
+        "description": "سكربت حذف ملفات الكراش واللوغ المؤقتة لتوفير الذاكرة"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/clean_crash.sh": {
+        "name": "تنظيف ملفات الكراش Crash",
+        "description": "سكربت حذف ملفات الكراش واللوغ المؤقتة لتوفير الذاكرة"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_crash.sh": {
+        "name": "تنظيف ملفات الكراش Crash",
+        "description": "سكربت حذف ملفات الكراش واللوغ المؤقتة لتوفير الذاكرة"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_crash.sh": {
+        "name": "تنظيف ملفات الكراش Crash",
+        "description": "سكربت حذف ملفات الكراش واللوغ المؤقتة لتوفير الذاكرة"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_crash.sh": {
+        "name": "تنظيف ملفات الكراش Crash",
+        "description": "سكربت حذف ملفات الكراش واللوغ المؤقتة لتوفير الذاكرة"
+    },
+    "main/tools/clean_iptv_cache.sh": {
+        "name": "تنظيف مخلفات IPTV (Clear IPTV Cache)",
+        "description": "حذف الملفات المؤقتة الناتجة عن مشاهدة أفلام ومسلسلات البث المباشر لزيادة المساحة"
+    },
+    "MohamedStore/main/tools/clean_iptv_cache.sh": {
+        "name": "تنظيف مخلفات IPTV (Clear IPTV Cache)",
+        "description": "حذف الملفات المؤقتة الناتجة عن مشاهدة أفلام ومسلسلات البث المباشر لزيادة المساحة"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/clean_iptv_cache.sh": {
+        "name": "تنظيف مخلفات IPTV (Clear IPTV Cache)",
+        "description": "حذف الملفات المؤقتة الناتجة عن مشاهدة أفلام ومسلسلات البث المباشر لزيادة المساحة"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_iptv_cache.sh": {
+        "name": "تنظيف مخلفات IPTV (Clear IPTV Cache)",
+        "description": "حذف الملفات المؤقتة الناتجة عن مشاهدة أفلام ومسلسلات البث المباشر لزيادة المساحة"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_iptv_cache.sh": {
+        "name": "تنظيف مخلفات IPTV (Clear IPTV Cache)",
+        "description": "حذف الملفات المؤقتة الناتجة عن مشاهدة أفلام ومسلسلات البث المباشر لزيادة المساحة"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_iptv_cache.sh": {
+        "name": "تنظيف مخلفات IPTV (Clear IPTV Cache)",
+        "description": "حذف الملفات المؤقتة الناتجة عن مشاهدة أفلام ومسلسلات البث المباشر لزيادة المساحة"
+    },
+    "main/tools/clean_ram.sh": {
+        "name": "تنظيف وتسريع الرام RAM",
+        "description": "سكربت تفريغ ذاكرة الرام المؤقتة وتسريع استجابة الرسيفر"
+    },
+    "MohamedStore/main/tools/clean_ram.sh": {
+        "name": "تنظيف وتسريع الرام RAM",
+        "description": "سكربت تفريغ ذاكرة الرام المؤقتة وتسريع استجابة الرسيفر"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/clean_ram.sh": {
+        "name": "تنظيف وتسريع الرام RAM",
+        "description": "سكربت تفريغ ذاكرة الرام المؤقتة وتسريع استجابة الرسيفر"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_ram.sh": {
+        "name": "تنظيف وتسريع الرام RAM",
+        "description": "سكربت تفريغ ذاكرة الرام المؤقتة وتسريع استجابة الرسيفر"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_ram.sh": {
+        "name": "تنظيف وتسريع الرام RAM",
+        "description": "سكربت تفريغ ذاكرة الرام المؤقتة وتسريع استجابة الرسيفر"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_ram.sh": {
+        "name": "تنظيف وتسريع الرام RAM",
+        "description": "سكربت تفريغ ذاكرة الرام المؤقتة وتسريع استجابة الرسيفر"
+    },
+    "main/tools/fix_cccam_freeze.sh": {
+        "name": "إصلاح تجمد وانقطاع السيسكام",
+        "description": "ينظف الذاكرة العشوائية من الشفرات القديمة، ويضيف خيارات الثبات لملف الإعدادات، ثم يعيد تشغيل الايمو لتثبيت البث"
+    },
+    "MohamedStore/main/tools/fix_cccam_freeze.sh": {
+        "name": "إصلاح تجمد وانقطاع السيسكام",
+        "description": "ينظف الذاكرة العشوائية من الشفرات القديمة، ويضيف خيارات الثبات لملف الإعدادات، ثم يعيد تشغيل الايمو لتثبيت البث"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/fix_cccam_freeze.sh": {
+        "name": "إصلاح تجمد وانقطاع السيسكام",
+        "description": "ينظف الذاكرة العشوائية من الشفرات القديمة، ويضيف خيارات الثبات لملف الإعدادات، ثم يعيد تشغيل الايمو لتثبيت البث"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_cccam_freeze.sh": {
+        "name": "إصلاح تجمد وانقطاع السيسكام",
+        "description": "ينظف الذاكرة العشوائية من الشفرات القديمة، ويضيف خيارات الثبات لملف الإعدادات، ثم يعيد تشغيل الايمو لتثبيت البث"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_cccam_freeze.sh": {
+        "name": "إصلاح تجمد وانقطاع السيسكام",
+        "description": "ينظف الذاكرة العشوائية من الشفرات القديمة، ويضيف خيارات الثبات لملف الإعدادات، ثم يعيد تشغيل الايمو لتثبيت البث"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_cccam_freeze.sh": {
+        "name": "إصلاح تجمد وانقطاع السيسكام",
+        "description": "ينظف الذاكرة العشوائية من الشفرات القديمة، ويضيف خيارات الثبات لملف الإعدادات، ثم يعيد تشغيل الايمو لتثبيت البث"
+    },
+    "main/tools/fix_network (1).sh": {
+        "name": "Fix Network Connection",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "MohamedStore/main/tools/fix_network (1).sh": {
+        "name": "Fix Network Connection",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/fix_network (1).sh": {
+        "name": "Fix Network Connection",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_network (1).sh": {
+        "name": "Fix Network Connection",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_network (1).sh": {
+        "name": "Fix Network Connection",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_network (1).sh": {
+        "name": "Fix Network Connection",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "main/tools/fix_network.sh": {
+        "name": "إصلاح وإعادة تشغيل الشبكة",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "MohamedStore/main/tools/fix_network.sh": {
+        "name": "إصلاح وإعادة تشغيل الشبكة",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/fix_network.sh": {
+        "name": "إصلاح وإعادة تشغيل الشبكة",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_network.sh": {
+        "name": "إصلاح وإعادة تشغيل الشبكة",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_network.sh": {
+        "name": "إصلاح وإعادة تشغيل الشبكة",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_network.sh": {
+        "name": "إصلاح وإعادة تشغيل الشبكة",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "main/tools/reset_pass.sh": {
+        "name": "تصفير كلمة السر",
+        "description": "لتصبح dreambox أو فارغة لتسهيل الاتصال عبر البرامج FTP / SSH تعيين كلمة السر الخاصة بـ"
+    },
+    "MohamedStore/main/tools/reset_pass.sh": {
+        "name": "تصفير كلمة السر",
+        "description": "لتصبح dreambox أو فارغة لتسهيل الاتصال عبر البرامج FTP / SSH تعيين كلمة السر الخاصة بـ"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/reset_pass.sh": {
+        "name": "تصفير كلمة السر",
+        "description": "لتصبح dreambox أو فارغة لتسهيل الاتصال عبر البرامج FTP / SSH تعيين كلمة السر الخاصة بـ"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/reset_pass.sh": {
+        "name": "تصفير كلمة السر",
+        "description": "لتصبح dreambox أو فارغة لتسهيل الاتصال عبر البرامج FTP / SSH تعيين كلمة السر الخاصة بـ"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/reset_pass.sh": {
+        "name": "تصفير كلمة السر",
+        "description": "لتصبح dreambox أو فارغة لتسهيل الاتصال عبر البرامج FTP / SSH تعيين كلمة السر الخاصة بـ"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/reset_pass.sh": {
+        "name": "تصفير كلمة السر",
+        "description": "لتصبح dreambox أو فارغة لتسهيل الاتصال عبر البرامج FTP / SSH تعيين كلمة السر الخاصة بـ"
+    },
+    "main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1).deb": {
+        "name": "softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1)",
+        "description": "Tool Package"
+    },
+    "MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1).deb": {
+        "name": "softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1)",
+        "description": "Tool Package"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1).deb": {
+        "name": "softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1)",
+        "description": "Tool Package"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1).deb": {
+        "name": "softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1)",
+        "description": "Tool Package"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1).deb": {
+        "name": "softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1)",
+        "description": "Tool Package"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1).deb": {
+        "name": "softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1)",
+        "description": "Tool Package"
+    },
+    "main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all.deb": {
+        "name": "softcams-oscam-emu-mips – arm_11964",
+        "description": "محاكي اوسكام لأجهزة الدريم بوكس"
+    },
+    "MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all.deb": {
+        "name": "softcams-oscam-emu-mips – arm_11964",
+        "description": "محاكي اوسكام لأجهزة الدريم بوكس"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all.deb": {
+        "name": "softcams-oscam-emu-mips – arm_11964",
+        "description": "محاكي اوسكام لأجهزة الدريم بوكس"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all.deb": {
+        "name": "softcams-oscam-emu-mips – arm_11964",
+        "description": "محاكي اوسكام لأجهزة الدريم بوكس"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all.deb": {
+        "name": "softcams-oscam-emu-mips – arm_11964",
+        "description": "محاكي اوسكام لأجهزة الدريم بوكس"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all.deb": {
+        "name": "softcams-oscam-emu-mips – arm_11964",
+        "description": "محاكي اوسكام لأجهزة الدريم بوكس"
+    },
+    "main/tools/update_packages.sh": {
+        "name": "تحديث حزم وفيدات الصورة",
+        "description": "سكربت تحديث مستودعات وفيد الصورة وإصلاح الحزم المفقودة"
+    },
+    "MohamedStore/main/tools/update_packages.sh": {
+        "name": "تحديث حزم وفيدات الصورة",
+        "description": "سكربت تحديث مستودعات وفيد الصورة وإصلاح الحزم المفقودة"
+    },
+    "wwwgoper77-wq/MohamedStore/main/tools/update_packages.sh": {
+        "name": "تحديث حزم وفيدات الصورة",
+        "description": "سكربت تحديث مستودعات وفيد الصورة وإصلاح الحزم المفقودة"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/update_packages.sh": {
+        "name": "تحديث حزم وفيدات الصورة",
+        "description": "سكربت تحديث مستودعات وفيد الصورة وإصلاح الحزم المفقودة"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/update_packages.sh": {
+        "name": "تحديث حزم وفيدات الصورة",
+        "description": "سكربت تحديث مستودعات وفيد الصورة وإصلاح الحزم المفقودة"
+    },
+    "tools/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/update_packages.sh": {
+        "name": "تحديث حزم وفيدات الصورة",
+        "description": "سكربت تحديث مستودعات وفيد الصورة وإصلاح الحزم المفقودة"
+    },
+    "main/system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "MohamedStore/main/system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "wwwgoper77-wq/MohamedStore/main/system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "system_images/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "main/system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "MohamedStore/main/system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "wwwgoper77-wq/MohamedStore/main/system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "system_images/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "main/picons/Picon 7.ow.zip": {
+        "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
+        "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة"
+    },
+    "MohamedStore/main/picons/Picon 7.ow.zip": {
+        "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
+        "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة"
+    },
+    "wwwgoper77-wq/MohamedStore/main/picons/Picon 7.ow.zip": {
+        "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
+        "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/Picon 7.ow.zip": {
+        "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
+        "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/Picon 7.ow.zip": {
+        "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
+        "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة"
+    },
+    "picons/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/Picon 7.ow.zip": {
+        "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
+        "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة"
+    },
+    "main/picons/enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2026-10-09--22-58-20_all.ipk": {
+        "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
+        "description": "100x60 شعارات اغلب الاقمار ابيض اللون"
+    },
+    "MohamedStore/main/picons/enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2026-10-09--22-58-20_all.ipk": {
+        "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
+        "description": "100x60 شعارات اغلب الاقمار ابيض اللون"
+    },
+    "wwwgoper77-wq/MohamedStore/main/picons/enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2026-10-09--22-58-20_all.ipk": {
+        "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
+        "description": "100x60 شعارات اغلب الاقمار ابيض اللون"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2026-10-09--22-58-20_all.ipk": {
+        "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
+        "description": "100x60 شعارات اغلب الاقمار ابيض اللون"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2026-10-09--22-58-20_all.ipk": {
+        "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
+        "description": "100x60 شعارات اغلب الاقمار ابيض اللون"
+    },
+    "picons/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2026-10-09--22-58-20_all.ipk": {
+        "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
+        "description": "100x60 شعارات اغلب الاقمار ابيض اللون"
+    },
+    "main/picons/nb": {
+        "name": "nb",
+        "description": "Picons Package"
+    },
+    "MohamedStore/main/picons/nb": {
+        "name": "nb",
+        "description": "Picons Package"
+    },
+    "wwwgoper77-wq/MohamedStore/main/picons/nb": {
+        "name": "nb",
+        "description": "Picons Package"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/nb": {
+        "name": "nb",
+        "description": "Picons Package"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/nb": {
+        "name": "nb",
+        "description": "Picons Package"
+    },
+    "picons/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/nb": {
+        "name": "nb",
+        "description": "Picons Package"
+    },
+    "main/channels/channels_MohamedStore_Arabic .tar.gz": {
+        "name": "channels_MohamedStore_Arabic",
+        "description": "مفضلة وملف قنوات خاص بالبنل"
+    },
+    "MohamedStore/main/channels/channels_MohamedStore_Arabic .tar.gz": {
+        "name": "channels_MohamedStore_Arabic",
+        "description": "مفضلة وملف قنوات خاص بالبنل"
+    },
+    "wwwgoper77-wq/MohamedStore/main/channels/channels_MohamedStore_Arabic .tar.gz": {
+        "name": "channels_MohamedStore_Arabic",
+        "description": "مفضلة وملف قنوات خاص بالبنل"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_MohamedStore_Arabic .tar.gz": {
+        "name": "channels_MohamedStore_Arabic",
+        "description": "مفضلة وملف قنوات خاص بالبنل"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_MohamedStore_Arabic .tar.gz": {
+        "name": "channels_MohamedStore_Arabic",
+        "description": "مفضلة وملف قنوات خاص بالبنل"
+    },
+    "channels/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_MohamedStore_Arabic .tar.gz": {
+        "name": "channels_MohamedStore_Arabic",
+        "description": "مفضلة وملف قنوات خاص بالبنل"
+    },
+    "main/channels/channels_backup by tarekalashry-ag.zip": {
+        "name": "channels_backup by tarekalashry-ag",
+        "description": "مفضلة وقنوات الاخ طارق"
+    },
+    "MohamedStore/main/channels/channels_backup by tarekalashry-ag.zip": {
+        "name": "channels_backup by tarekalashry-ag",
+        "description": "مفضلة وقنوات الاخ طارق"
+    },
+    "wwwgoper77-wq/MohamedStore/main/channels/channels_backup by tarekalashry-ag.zip": {
+        "name": "channels_backup by tarekalashry-ag",
+        "description": "مفضلة وقنوات الاخ طارق"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_backup by tarekalashry-ag.zip": {
+        "name": "channels_backup by tarekalashry-ag",
+        "description": "مفضلة وقنوات الاخ طارق"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_backup by tarekalashry-ag.zip": {
+        "name": "channels_backup by tarekalashry-ag",
+        "description": "مفضلة وقنوات الاخ طارق"
+    },
+    "channels/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_backup by tarekalashry-ag.zip": {
+        "name": "channels_backup by tarekalashry-ag",
+        "description": "مفضلة وقنوات الاخ طارق"
+    },
+    "main/channels/channels_backup_openATV_20260602_000828.tar.gz": {
+        "name": "ملف backup قنوات ومفضلات صورة OpenATV",
+        "description": "نسخة احتياطية لقائمة القنوات والمفضلات الرياضية والعامة"
+    },
+    "MohamedStore/main/channels/channels_backup_openATV_20260602_000828.tar.gz": {
+        "name": "ملف backup قنوات ومفضلات صورة OpenATV",
+        "description": "نسخة احتياطية لقائمة القنوات والمفضلات الرياضية والعامة"
+    },
+    "wwwgoper77-wq/MohamedStore/main/channels/channels_backup_openATV_20260602_000828.tar.gz": {
+        "name": "ملف backup قنوات ومفضلات صورة OpenATV",
+        "description": "نسخة احتياطية لقائمة القنوات والمفضلات الرياضية والعامة"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_backup_openATV_20260602_000828.tar.gz": {
+        "name": "ملف backup قنوات ومفضلات صورة OpenATV",
+        "description": "نسخة احتياطية لقائمة القنوات والمفضلات الرياضية والعامة"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_backup_openATV_20260602_000828.tar.gz": {
+        "name": "ملف backup قنوات ومفضلات صورة OpenATV",
+        "description": "نسخة احتياطية لقائمة القنوات والمفضلات الرياضية والعامة"
+    },
+    "channels/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_backup_openATV_20260602_000828.tar.gz": {
+        "name": "ملف backup قنوات ومفضلات صورة OpenATV",
+        "description": "نسخة احتياطية لقائمة القنوات والمفضلات الرياضية والعامة"
+    },
+    "main/channels/e2-morph883-13e-160826_160826-r1_noarch.ipk": {
+        "name": "Channels Hotbird 13E (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "MohamedStore/main/channels/e2-morph883-13e-160826_160826-r1_noarch.ipk": {
+        "name": "Channels Hotbird 13E (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-13e-160826_160826-r1_noarch.ipk": {
+        "name": "Channels Hotbird 13E (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-13e-160826_160826-r1_noarch.ipk": {
+        "name": "Channels Hotbird 13E (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-13e-160826_160826-r1_noarch.ipk": {
+        "name": "Channels Hotbird 13E (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "channels/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-13e-160826_160826-r1_noarch.ipk": {
+        "name": "Channels Hotbird 13E (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "main/channels/e2-morph883-motor-160826_160826-r1_noarch.ipk": {
+        "name": "Channels motor  (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "MohamedStore/main/channels/e2-morph883-motor-160826_160826-r1_noarch.ipk": {
+        "name": "Channels motor  (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-motor-160826_160826-r1_noarch.ipk": {
+        "name": "Channels motor  (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-motor-160826_160826-r1_noarch.ipk": {
+        "name": "Channels motor  (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-motor-160826_160826-r1_noarch.ipk": {
+        "name": "Channels motor  (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "channels/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-motor-160826_160826-r1_noarch.ipk": {
+        "name": "Channels motor  (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "main/channels/o": {
+        "name": "o",
+        "description": "Channels Settings"
+    },
+    "MohamedStore/main/channels/o": {
+        "name": "o",
+        "description": "Channels Settings"
+    },
+    "wwwgoper77-wq/MohamedStore/main/channels/o": {
+        "name": "o",
+        "description": "Channels Settings"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/o": {
+        "name": "o",
+        "description": "Channels Settings"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/o": {
+        "name": "o",
+        "description": "Channels Settings"
+    },
+    "channels/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/o": {
+        "name": "o",
+        "description": "Channels Settings"
+    },
+    "main/novaler/u": {
+        "name": "u",
+        "description": "Novaler Package"
+    },
+    "MohamedStore/main/novaler/u": {
+        "name": "u",
+        "description": "Novaler Package"
+    },
+    "wwwgoper77-wq/MohamedStore/main/novaler/u": {
+        "name": "u",
+        "description": "Novaler Package"
+    },
+    "raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/novaler/u": {
+        "name": "u",
+        "description": "Novaler Package"
+    },
+    "https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/novaler/u": {
+        "name": "u",
+        "description": "Novaler Package"
+    },
+    "novaler/https:/raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/novaler/u": {
+        "name": "u",
+        "description": "Novaler Package"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/0": {
+        "name": "0",
+        "description": "Plugin Extension"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/AJPanel.sh": {
+        "name": "AJPanel",
+        "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/Akwam.zip": {
+        "name": "Akwam",
+        "description": "بلجن اكوام خاص بالبنل"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/Alkuds%20ipaudio%20MAC%20Xtreme.sh": {
+        "name": "Alkuds ipaudio MAC Xtreme",
+        "description": "تشغيل ملفات M3U وملفات اخرى"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/Alkuds ipaudio MAC Xtreme.sh": {
+        "name": "Alkuds ipaudio MAC Xtreme",
+        "description": "تشغيل ملفات M3U وملفات اخرى"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/enigma2-plugin-extensions-uninstaller_1.0_all.ipk": {
+        "name": "Plugin Uninstaller",
+        "description": "أداة حذف وإزالة البلجنات وحزم التثبيت وحذف مخلفاتها"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/ipa%20udio%20pro_1.7.ipk": {
+        "name": "IPAudio Pro3.12",
+        "description": "تشغيل الصوتيات والقنوات الصوتية لمطابقة التعليق العربي"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/ipa udio pro_1.7.ipk": {
+        "name": "IPAudio Pro3.12",
+        "description": "تشغيل الصوتيات والقنوات الصوتية لمطابقة التعليق العربي"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/mytranslator_1.74.ipk": {
+        "name": "My Translator",
+        "description": "ترجمة سريعة للقوائم والأحداث والمحتوى التلفزيوني"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/skins/All/MX-HC2-MOD-By-RAED.ipk": {
+        "name": "MX HC2 MOD By RAED",
+        "description": "سكين MX HC2 MOD By RAED عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/skins/All/MohammedSkin.sh": {
+        "name": "MohammedSkin",
+        "description": "الصور المدعومه OpenBH، OpenViX، OpenATV، PurE2، EGAMI"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk": {
+        "name": "BEIN BLACK NP FHD By Muaath",
+        "description": "سكين Skin-BEIN-BLACK-NP-FHD-By-Muaath عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/audio/Fox%26Anis.sh": {
+        "name": "Fox&Anis",
+        "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/audio/Fox&Anis.sh": {
+        "name": "Fox&Anis",
+        "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/audio/Fox-Anis-ahmad%20yahia-Quran.sh": {
+        "name": "Fox-Anis-ahmad yahia-Quran",
+        "description": "صوتيات شاملة فوكس- انيس - احمد يحيى - اذاعة القران الكريم"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/audio/Fox-Anis-ahmad yahia-Quran.sh": {
+        "name": "Fox-Anis-ahmad yahia-Quran",
+        "description": "صوتيات شاملة فوكس- انيس - احمد يحيى - اذاعة القران الكريم"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/audio/r": {
+        "name": "r",
+        "description": "سكين r عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/0": {
+        "name": "0",
+        "description": "Portals Tool"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/cord_cutter_portal.sh": {
+        "name": "cord_cutter_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/fastopen_portal.sh": {
+        "name": "fastopen_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/nocable_portal.sh": {
+        "name": "nocable_portal",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/remorize_soltan.sh": {
+        "name": "remorize_soltan",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/tvmate_portal_1.sh": {
+        "name": "tvmate_portal_1",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/tvmate_portal_2.sh": {
+        "name": "tvmate_portal_2",
+        "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/Ncam%20v15.8.sh": {
+        "name": "تثبيت محاكي Ncam v15.8",
+        "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/Ncam v15.8.sh": {
+        "name": "تثبيت محاكي Ncam v15.8",
+        "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/OSCam%2011964-VU": {
+        "name": "OSCam 11964-VU",
+        "description": "محاكي اوسكام"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/OSCam 11964-VU": {
+        "name": "OSCam 11964-VU",
+        "description": "محاكي اوسكام"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/backup_cams.sh": {
+        "name": "حفظ اشتراكات الشيرنج",
+        "description": "أخذ نسخة احتياطية من ملفات OScam و NCam و CCcam وحفظها في مجلد آمن بالهارد أو الـ USB"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/backup_channels.sh": {
+        "name": "أخذ نسخة احتياطية للقنوات",
+        "description": "سكربت حفظ وباك اب لقائمة القنوات والمفضلات لديك"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/clean_crash.sh": {
+        "name": "تنظيف ملفات الكراش Crash",
+        "description": "سكربت حذف ملفات الكراش واللوغ المؤقتة لتوفير الذاكرة"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/clean_iptv_cache.sh": {
+        "name": "تنظيف مخلفات IPTV (Clear IPTV Cache)",
+        "description": "حذف الملفات المؤقتة الناتجة عن مشاهدة أفلام ومسلسلات البث المباشر لزيادة المساحة"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/clean_ram.sh": {
+        "name": "تنظيف وتسريع الرام RAM",
+        "description": "سكربت تفريغ ذاكرة الرام المؤقتة وتسريع استجابة الرسيفر"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/fix_cccam_freeze.sh": {
+        "name": "إصلاح تجمد وانقطاع السيسكام",
+        "description": "ينظف الذاكرة العشوائية من الشفرات القديمة، ويضيف خيارات الثبات لملف الإعدادات، ثم يعيد تشغيل الايمو لتثبيت البث"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/fix_network%20%281%29.sh": {
+        "name": "Fix Network Connection",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/fix_network (1).sh": {
+        "name": "Fix Network Connection",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/fix_network.sh": {
+        "name": "إصلاح وإعادة تشغيل الشبكة",
+        "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/reset_pass.sh": {
+        "name": "تصفير كلمة السر",
+        "description": "لتصبح dreambox أو فارغة لتسهيل الاتصال عبر البرامج FTP / SSH تعيين كلمة السر الخاصة بـ"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/softcams-oscam-emu-ALL%20Images%20mips%20%E2%80%93%20arm%20%E2%80%93%20arm64_11964_all%20%281%29.deb": {
+        "name": "softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1)",
+        "description": "Tool Package"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1).deb": {
+        "name": "softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1)",
+        "description": "Tool Package"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/softcams-oscam-emu-ALL%20Images%20mips%20%E2%80%93%20arm%20%E2%80%93%20arm64_11964_all.deb": {
+        "name": "softcams-oscam-emu-mips – arm_11964",
+        "description": "محاكي اوسكام لأجهزة الدريم بوكس"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all.deb": {
+        "name": "softcams-oscam-emu-mips – arm_11964",
+        "description": "محاكي اوسكام لأجهزة الدريم بوكس"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/update_packages.sh": {
+        "name": "تحديث حزم وفيدات الصورة",
+        "description": "سكربت تحديث مستودعات وفيد الصورة وإصلاح الحزم المفقودة"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/picons/Picon%207.ow.zip": {
+        "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
+        "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/picons/Picon 7.ow.zip": {
+        "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
+        "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/picons/enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2026-10-09--22-58-20_all.ipk": {
+        "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
+        "description": "100x60 شعارات اغلب الاقمار ابيض اللون"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/picons/nb": {
+        "name": "nb",
+        "description": "Picons Package"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/channels_MohamedStore_Arabic%20.tar.gz": {
+        "name": "channels_MohamedStore_Arabic",
+        "description": "مفضلة وملف قنوات خاص بالبنل"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/channels_MohamedStore_Arabic .tar.gz": {
+        "name": "channels_MohamedStore_Arabic",
+        "description": "مفضلة وملف قنوات خاص بالبنل"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/channels_backup%20by%20tarekalashry-ag.zip": {
+        "name": "channels_backup by tarekalashry-ag",
+        "description": "مفضلة وقنوات الاخ طارق"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/channels_backup by tarekalashry-ag.zip": {
+        "name": "channels_backup by tarekalashry-ag",
+        "description": "مفضلة وقنوات الاخ طارق"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/channels_backup_openATV_20260602_000828.tar.gz": {
+        "name": "ملف backup قنوات ومفضلات صورة OpenATV",
+        "description": "نسخة احتياطية لقائمة القنوات والمفضلات الرياضية والعامة"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/e2-morph883-13e-160826_160826-r1_noarch.ipk": {
+        "name": "Channels Hotbird 13E (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/e2-morph883-motor-160826_160826-r1_noarch.ipk": {
+        "name": "Channels motor  (Morph883)",
+        "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/o": {
+        "name": "o",
+        "description": "Channels Settings"
+    },
+    "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/novaler/u": {
+        "name": "u",
+        "description": "Novaler Package"
     }
 }

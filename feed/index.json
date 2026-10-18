@@ -6,49 +6,43 @@
             {
                 "name": "0",
                 "description": "Plugin Extension",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/0",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/0",
                 "image": ""
             },
             {
                 "name": "AJPanel",
                 "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/AJPanel.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/AJPanel.sh",
                 "image": ""
             },
             {
                 "name": "Akwam",
                 "description": "بلجن اكوام خاص بالبنل",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Akwam.zip",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/Akwam.zip",
                 "image": ""
             },
             {
                 "name": "Alkuds ipaudio MAC Xtreme",
                 "description": "تشغيل ملفات M3U وملفات اخرى",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Alkuds%20ipaudio%20MAC%20Xtreme.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/Alkuds%20ipaudio%20MAC%20Xtreme.sh",
                 "image": ""
             },
             {
                 "name": "Plugin Uninstaller",
                 "description": "أداة حذف وإزالة البلجنات وحزم التثبيت وحذف مخلفاتها",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/enigma2-plugin-extensions-uninstaller_1.0_all.ipk",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/enigma2-plugin-extensions-uninstaller_1.0_all.ipk",
                 "image": ""
             },
             {
                 "name": "IPAudio Pro3.12",
                 "description": "تشغيل الصوتيات والقنوات الصوتية لمطابقة التعليق العربي",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/ipa%20udio%20pro_1.7.ipk",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/ipa%20udio%20pro_1.7.ipk",
                 "image": ""
             },
             {
                 "name": "My Translator",
                 "description": "ترجمة سريعة للقوائم والأحداث والمحتوى التلفزيوني",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/mytranslator_1.74.ipk",
-                "image": ""
-            },
-            {
-                "name": "FootOnSat",
-                "description": "جدول مباريات اليوم والقنوات الناقلة والمعلقين والترددات مباشرة",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/FootOnSat.plugin.zip",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/mytranslator_1.74.ipk",
                 "image": ""
             }
         ],
@@ -59,31 +53,25 @@
                     {
                         "name": "MX HC2 MOD By RAED",
                         "description": "سكين MX HC2 MOD By RAED عالي الدقة FHD بتصميم أنيق وخفيف",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MX-HC2-MOD-By-RAED.ipk",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/skins/All/MX-HC2-MOD-By-RAED.ipk",
                         "image": ""
                     },
                     {
                         "name": "MohammedSkin",
                         "description": "الصور المدعومه OpenBH، OpenViX، OpenATV، PurE2، EGAMI",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MohammedSkin.sh",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/skins/All/MohammedSkin.sh",
                         "image": ""
                     },
                     {
                         "name": "BEIN BLACK NP FHD By Muaath",
                         "description": "سكين Skin-BEIN-BLACK-NP-FHD-By-Muaath عالي الدقة FHD بتصميم أنيق وخفيف",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk",
                         "image": ""
                     },
                     {
                         "name": "n",
                         "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/n",
-                        "image": ""
-                    },
-                    {
-                        "name": "armynextgengradient",
-                        "description": "سكين OpenBlack-armynextgengradient عالي الدقة FHD بتصميم أنيق وخفيف",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/OpenBlack-skin-armynextgengradient.mod.fhroma_BlackHole.ipk",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/skins/All/n",
                         "image": ""
                     }
                 ]
@@ -96,19 +84,19 @@
                     {
                         "name": "Fox&Anis",
                         "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox%26Anis.sh",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/audio/Fox%26Anis.sh",
                         "image": ""
                     },
                     {
                         "name": "Fox-Anis-ahmad yahia-Quran",
                         "description": "صوتيات شاملة فوكس- انيس - احمد يحيى - اذاعة القران الكريم",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox-Anis-ahmad%20yahia-Quran.sh",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/audio/Fox-Anis-ahmad%20yahia-Quran.sh",
                         "image": ""
                     },
                     {
                         "name": "r",
                         "description": "سكين r عالي الدقة FHD بتصميم أنيق وخفيف",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/r",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/audio/r",
                         "image": ""
                     }
                 ]
@@ -119,43 +107,43 @@
                     {
                         "name": "0",
                         "description": "Portals Tool",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/0",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/0",
                         "image": ""
                     },
                     {
                         "name": "cord_cutter_portal",
                         "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/cord_cutter_portal.sh",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/cord_cutter_portal.sh",
                         "image": ""
                     },
                     {
                         "name": "fastopen_portal",
                         "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/fastopen_portal.sh",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/fastopen_portal.sh",
                         "image": ""
                     },
                     {
                         "name": "nocable_portal",
                         "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/nocable_portal.sh",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/nocable_portal.sh",
                         "image": ""
                     },
                     {
                         "name": "remorize_soltan",
                         "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/remorize_soltan.sh",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/remorize_soltan.sh",
                         "image": ""
                     },
                     {
                         "name": "tvmate_portal_1",
                         "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_1.sh",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/tvmate_portal_1.sh",
                         "image": ""
                     },
                     {
                         "name": "tvmate_portal_2",
                         "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/tvmate_portal_2.sh",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/portals/tvmate_portal_2.sh",
                         "image": ""
                     }
                 ]
@@ -163,743 +151,96 @@
             {
                 "name": "تثبيت محاكي Ncam v15.8",
                 "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/Ncam%20v15.8.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/Ncam%20v15.8.sh",
                 "image": ""
             },
             {
                 "name": "OSCam 11964-VU",
                 "description": "محاكي اوسكام",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/OSCam%2011964-VU",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/OSCam%2011964-VU",
                 "image": ""
             },
             {
                 "name": "حفظ اشتراكات الشيرنج",
                 "description": "أخذ نسخة احتياطية من ملفات OScam و NCam و CCcam وحفظها في مجلد آمن بالهارد أو الـ USB",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/backup_cams.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/backup_cams.sh",
                 "image": ""
             },
             {
                 "name": "أخذ نسخة احتياطية للقنوات",
                 "description": "سكربت حفظ وباك اب لقائمة القنوات والمفضلات لديك",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/backup_channels.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/backup_channels.sh",
                 "image": ""
             },
             {
                 "name": "تنظيف ملفات الكراش Crash",
                 "description": "سكربت حذف ملفات الكراش واللوغ المؤقتة لتوفير الذاكرة",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_crash.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/clean_crash.sh",
                 "image": ""
             },
             {
                 "name": "تنظيف مخلفات IPTV (Clear IPTV Cache)",
                 "description": "حذف الملفات المؤقتة الناتجة عن مشاهدة أفلام ومسلسلات البث المباشر لزيادة المساحة",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_iptv_cache.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/clean_iptv_cache.sh",
                 "image": ""
             },
             {
                 "name": "تنظيف وتسريع الرام RAM",
                 "description": "سكربت تفريغ ذاكرة الرام المؤقتة وتسريع استجابة الرسيفر",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/clean_ram.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/clean_ram.sh",
                 "image": ""
             },
             {
                 "name": "إصلاح تجمد وانقطاع السيسكام",
                 "description": "ينظف الذاكرة العشوائية من الشفرات القديمة، ويضيف خيارات الثبات لملف الإعدادات، ثم يعيد تشغيل الايمو لتثبيت البث",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_cccam_freeze.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/fix_cccam_freeze.sh",
                 "image": ""
             },
             {
                 "name": "Fix Network Connection",
                 "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_network%20%281%29.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/fix_network%20%281%29.sh",
                 "image": ""
             },
             {
                 "name": "إصلاح وإعادة تشغيل الشبكة",
                 "description": "سكربت حل مشاكل الاتصال بالإنترنت وإعادة ضبط الشبكة",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_network.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/fix_network.sh",
                 "image": ""
             },
             {
                 "name": "تصفير كلمة السر",
                 "description": "لتصبح dreambox أو فارغة لتسهيل الاتصال عبر البرامج FTP / SSH تعيين كلمة السر الخاصة بـ",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/reset_pass.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/reset_pass.sh",
                 "image": ""
             },
             {
                 "name": "softcams-oscam-emu-ALL Images mips – arm – arm64_11964_all (1)",
                 "description": "Tool Package",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL%20Images%20mips%20%E2%80%93%20arm%20%E2%80%93%20arm64_11964_all%20%281%29.deb",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/softcams-oscam-emu-ALL%20Images%20mips%20%E2%80%93%20arm%20%E2%80%93%20arm64_11964_all%20%281%29.deb",
                 "image": ""
             },
             {
                 "name": "softcams-oscam-emu-mips – arm_11964",
                 "description": "محاكي اوسكام لأجهزة الدريم بوكس",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/softcams-oscam-emu-ALL%20Images%20mips%20%E2%80%93%20arm%20%E2%80%93%20arm64_11964_all.deb",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/softcams-oscam-emu-ALL%20Images%20mips%20%E2%80%93%20arm%20%E2%80%93%20arm64_11964_all.deb",
                 "image": ""
             },
             {
                 "name": "تحديث حزم وفيدات الصورة",
                 "description": "سكربت تحديث مستودعات وفيد الصورة وإصلاح الحزم المفقودة",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/update_packages.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/tools/update_packages.sh",
                 "image": ""
             }
         ],
         "system_images": [
-            {
-                "name": "All",
-                "items": [
-                    {
-                        "name": "Egami 10.5 - VU+ Duo 4K",
-                        "description": "صورة نظام Egami 10.5 الرسمية لجهاز VU+ Duo 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/egami-10.5-r1-vuduo4k-20240125_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "Egami 10.5 - VU+ Ultimo 4K",
-                        "description": "صورة نظام Egami 10.5 الرسمية لجهاز VU+ Ultimo 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/egami-10.5-r1-vuultimo4k-20240125_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة EGAMI لجهاز VUZERO4K",
-                        "description": "صورة نظام EGAMI الرسمية المحدثة لجهاز VUZERO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/egami-10.6-r1-vuzero4k-20241114_E2Kings_S_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة EGAMI لجهاز NOVALER4K",
-                        "description": "صورة نظام EGAMI الرسمية المحدثة لجهاز NOVALER4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/egami-11.0-r21-novaler4k-20260519_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة EGAMI لجهاز NOVALER4KPRO",
-                        "description": "صورة نظام EGAMI الرسمية المحدثة لجهاز NOVALER4KPRO",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/egami-11.0-r21-novaler4kpro-20260519_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة EGAMI لجهاز NOVALER4KSE",
-                        "description": "صورة نظام EGAMI الرسمية المحدثة لجهاز NOVALER4KSE",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/egami-11.0-r21-novaler4kse-20260519_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة EGAMI لجهاز ZGEMMAH17COMBO",
-                        "description": "صورة نظام EGAMI الرسمية المحدثة لجهاز ZGEMMAH17COMBO",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/egami-11.0-r21-zgemmah17combo-20260519_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز NOVALER4K",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز NOVALER4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/novaler4k-PurE2-7.6-20260816_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز NOVALER4KPRO",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز NOVALER4KPRO",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/novaler4kpro-PurE2-7.6-20260816_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز NOVALER4KSE",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز NOVALER4KSE",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/novaler4kse-PurE2-7.6-20260816_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenPLi لجهاز Multibox 4K Pro",
-                        "description": "صورة نظام OpenPLi الرسمية لجهاز Multibox 4K Pro (MMC)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/Open.PLI-MULTIBOX.4K.PRO.ULTRA.HD.Wrynose.system_images.py3_emmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENBH لجهاز VUDUO4K",
-                        "description": "صورة نظام OPENBH الرسمية المحدثة لجهاز VUDUO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.001.system_images-vuduo4k-8c6baf54_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENBH لجهاز VUDUO4KSE",
-                        "description": "صورة نظام OPENBH الرسمية المحدثة لجهاز VUDUO4KSE",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.001.system_images-vuduo4kse-8c6baf54_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENBH لجهاز VUSOLO4K",
-                        "description": "صورة نظام OPENBH الرسمية المحدثة لجهاز VUSOLO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.001.system_images-vusolo4k-8c6baf54_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENBH لجهاز VUUNO4K",
-                        "description": "صورة نظام OPENBH الرسمية المحدثة لجهاز VUUNO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.001.system_images-vuuno4k-8c6baf54_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENBH لجهاز VUUNO4KSE",
-                        "description": "صورة نظام OPENBH الرسمية المحدثة لجهاز VUUNO4KSE",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.001.system_images-vuuno4kse-8c6baf54_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENBH لجهاز VUZERO4K",
-                        "description": "صورة نظام OPENBH الرسمية المحدثة لجهاز VUZERO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.001.system_images-vuzero4k-8c6baf54_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENBH لجهاز VUULTIMO4K",
-                        "description": "صورة نظام OPENBH الرسمية المحدثة لجهاز VUULTIMO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.001system_images.-vuultimo4k-8c6baf54_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 - VU+ Duo 2",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز VU+ Duo 2 (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vuduo2-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 - VU+ Duo 4K",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز VU+ Duo 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vuduo4k-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 - VU+ Duo 4K SE",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز VU+ Duo 4K SE (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vuduo4kse-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 -vusolose2",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز vusolose2 (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vusolo2-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 -vusolo4k",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز vusolo4k  (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vusolo4k-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 -vusolose",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز vusolose  (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vusolose-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 -vuultimo",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز vuultimo (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vuultimo-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 -vuultimo4k",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز vuultimo4k (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vuultimo4k-db3b084d_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 -vuuno4k",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز vuuno4k (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vuuno4k-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 -vuuno4kse",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز vuuno4kse (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vuuno4kse-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 -vuzero",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز vuzero (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vuzero-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "OpenBH 6.0.002 -vuzero4k",
-                        "description": "صورة نظام OpenBH 6.0.002 الرسمية لجهاز vuzero4k (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.002.release-vuzero4k-fc7b6ebc_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENDROID لجهاز SF4008",
-                        "description": "صورة نظام OPENDROID الرسمية المحدثة لجهاز SF4008",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/opendroid-8.1.1-SF4008.4K.UHD-20260720_system_images.Octagon.usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENDROID لجهاز SF8008",
-                        "description": "صورة نظام OPENDROID الرسمية المحدثة لجهاز SF8008",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/opendroid-8.1.1-SF8008.4K.UHD-20260720_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENDROID لجهاز SF8008",
-                        "description": "صورة نظام OPENDROID الرسمية المحدثة لجهاز SF8008",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/opendroid-8.1.1-SF8008.MINI.4K.UHD-20260720_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENDROID لجهاز VUSOLO4K",
-                        "description": "صورة نظام OPENDROID الرسمية المحدثة لجهاز VUSOLO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/opendroid-8.1.1-vusolo4k-20260720_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENDROID لجهاز VUUNO4K",
-                        "description": "صورة نظام OPENDROID الرسمية المحدثة لجهاز VUUNO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/opendroid-8.1.1-vuuno4k-20260720_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENDROID لجهاز VUZERO4K",
-                        "description": "صورة نظام OPENDROID الرسمية المحدثة لجهاز VUZERO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/opendroid-8.1.1-vuzero4k-20260715_system_images.usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENHDF لجهاز GBQUAD4K",
-                        "description": "صورة نظام OPENHDF الرسمية المحدثة لجهاز GBQUAD4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openhdf-7.2-gbquad4k-13-20230501_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENHDF لجهاز GBTRIO4K",
-                        "description": "صورة نظام OPENHDF الرسمية المحدثة لجهاز GBTRIO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openhdf-7.2-gbtrio4k-13-20230502_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENHDF لجهاز GBTRIO4KPRO",
-                        "description": "صورة نظام OPENHDF الرسمية المحدثة لجهاز GBTRIO4KPRO",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openhdf-7.2-gbtrio4kpro-13-20230502_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENHDF لجهاز SF3038",
-                        "description": "صورة نظام OPENHDF الرسمية المحدثة لجهاز SF3038",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openhdf-7.2-sf3038-11-20230415_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENHDF لجهاز SF4008",
-                        "description": "صورة نظام OPENHDF الرسمية المحدثة لجهاز SF4008",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openhdf-7.2-sf4008-14-20230506_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENHDF لجهاز SF8008",
-                        "description": "صورة نظام OPENHDF الرسمية المحدثة لجهاز SF8008",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openhdf-7.5-sf8008-72-20260528_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENHDF لجهاز SX88V2",
-                        "description": "صورة نظام OPENHDF الرسمية المحدثة لجهاز SX88V2",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openhdf-7.5-sx88v2-72-20260528_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENHDF لجهاز SX988",
-                        "description": "صورة نظام OPENHDF الرسمية المحدثة لجهاز SX988",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openhdf-7.5-sx988-72-20260528_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenPLi 9.2 لجهاز VU+ Duo 4K SE",
-                        "description": "صورة نظام OpenPLi 9.2 الرسمية لجهاز VU+ Duo 4K SE (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openpli-9.2-release-vuduo4kse-20260816_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenPLi 9.2 لجهاز VU+ Uno 4K SE",
-                        "description": "صورة نظام OpenPLi 9.2 الرسمية لجهاز VU+ Uno 4K SE (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openpli-9.2-release-vuuno4kse-20260816_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenPLi 9.2 لجهاز VU+ Zero 4K",
-                        "description": "صورة نظام OpenPLi 9.2 الرسمية لجهاز VU+ Zero 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openpli-9.2-release-vuzero4k-20260816_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENPLI لجهاز NOVALER4KPRO",
-                        "description": "صورة نظام OPENPLI الرسمية المحدثة لجهاز NOVALER4KPRO",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/OpenPLi-wrynose-novaler4kpro-backup-20260812_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز Enigma2 Device",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز Enigma2 Device (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-sf208-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز Enigma2 Device",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز Enigma2 Device (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-sf228-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز Octagon SF3038",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز Octagon SF3038 (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-sf3038-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز Octagon SF4008 4K",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز Octagon SF4008 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-sf4008-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز Octagon SF8008 4K",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز Octagon SF8008 4K (MMC)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-sf8008-20260704_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز Octagon SF8008m",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز Octagon SF8008m (MMC)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-sf8008m-20260704_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز Octagon SFX6008",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز Octagon SFX6008 (Multiboot)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-sfx6008-20260704_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز Octagon SX988 4K",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز Octagon SX988 4K (MMC)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-sx988-20260704_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Duo 2",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Duo 2 (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vuduo2-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Duo 4K",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Duo 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vuduo4k-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Solo 2",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Solo 2 (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vusolo2-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Solo 4K",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Solo 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vusolo4k-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Solo SE",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Solo SE (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vusolose-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Ultimo 4K",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Ultimo 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vuultimo4k-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Uno 4K",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Uno 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vuuno4k-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Uno 4K SE",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Uno 4K SE (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vuuno4kse-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Zero",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Zero (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vuzero-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenSPA 8.7.001 لجهاز VU+ Zero 4K",
-                        "description": "صورة نظام OpenSPA 8.7.001 الرسمية لجهاز VU+ Zero 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openspa-8.7.001-vuzero4k-20260704_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز SX988",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز SX988",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.7.020.release-sx988_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز DM900",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز DM900",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-dm900_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز DM920",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز DM920",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-dm920_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز SF8008",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز SF8008",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-sf8008m_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز SFX6008",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز SFX6008",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-sfx6008_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز SX88V2",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز SX88V2",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-sx88v2_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUDUO2",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUDUO2",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vuduo2_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUDUO4KSE",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUDUO4KSE",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vuduo4kse_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUDUO4K",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUDUO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vuduo4k_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUSOLO2",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUSOLO2",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vusolo2_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUSOLO4K",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUSOLO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vusolo4k_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUULTIMO4K",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUULTIMO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vuultimo4k_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUUNO4KSE",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUUNO4KSE",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vuuno4kse_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUUNO4K",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUUNO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vuuno4k_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUZERO4K",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUZERO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vuzero4k_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز VUZERO",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز VUZERO",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-vuzero_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز ZGEMMAH17COMBO",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز ZGEMMAH17COMBO",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-zgemmah17combo_multi.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENVIX لجهاز ZGEMMAH82H",
-                        "description": "صورة نظام OPENVIX الرسمية المحدثة لجهاز ZGEMMAH82H",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvix-6.9.001.release-zgemmah82h_nand.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز SF4008",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز SF4008",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/sf4008-PurE2-7.6-20260814_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز SF8008",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز SF8008",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/sf8008-PurE2-7.6-20260816_mmc.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز VUDUO2",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز VUDUO2",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vuduo2_202212231310_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز VUDUO4KSE",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز VUDUO4KSE",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vuduo4kse_202212231255_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز VUDUO4K",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز VUDUO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vuduo4k_202212231257_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز VUSOLO2",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز VUSOLO2",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vusolo2_202212231312_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز VUSOLO4K",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز VUSOLO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vusolo4k_202212231308_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز الجهاز",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز الجهاز",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vusolose_202212231314_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز VUULTIMO4K",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز VUULTIMO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vuultimo4k_202212231304_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز VUUNO4KSE",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز VUUNO4KSE",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vuuno4kse_202212231259_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز VUUNO4K",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز VUUNO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vuuno4k_202212231306_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة VTI لجهاز VUZERO4K",
-                        "description": "صورة نظام VTI الرسمية المحدثة لجهاز VUZERO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/VTi_15-0-02_vuzero4k_202212231301_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز VUDUO4K",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز VUDUO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/vuduo4k-PurE2-7.6-20260817_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز VUDUO4KSE",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز VUDUO4KSE",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/vuduo4kse-PurE2-7.6-20260817_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز VUSOLO4K",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز VUSOLO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/vusolo4k-PurE2-7.6-20260817_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز VUULTIMO4K",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز VUULTIMO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/vuultimo4k-PurE2-7.6-20260817_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز VUUNO4K",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز VUUNO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/vuuno4k-PurE2-7.6-20260817_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة PURE2 لجهاز VUZERO4K",
-                        "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز VUZERO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/vuzero4k-PurE2-7.6-20260817_usb.zip",
-                        "image": ""
-                    }
-                ]
-            },
             {
                 "name": "OpenATV",
                 "items": [
                     {
                         "name": "OpenATV - m",
                         "description": "صورة نظام OpenATV لأجهزة الإنيجما 2",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenATV/m",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENATV لجهاز VUDUO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUDUO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuduo4k-20260813_system_imagesusb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENATV لجهاز VUSOLO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUSOLO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vusolo4k-20260810_system_imagesusb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENATV لجهاز VUULTIMO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUULTIMO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuultimo4k-20260812_system_imagesusb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENATV لجهاز VUUNO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUUNO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuuno4k-20260812_system_imagesusb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENATV لجهاز VUZERO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUZERO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuzero4k-20260811_system_imagesusb.zip",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/system_images/OpenATV/m",
                         "image": ""
                     }
                 ]
@@ -910,98 +251,8 @@
                     {
                         "name": "OpenVision - k",
                         "description": "صورة نظام OpenVision لأجهزة الإنيجما 2",
-                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenVision/k",
-                        "image": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/images/key_blue.png"
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Duo 2",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Duo 2 (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuduo-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Duo 2",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Duo 2 (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuduo2-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Duo 4K",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Duo 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuduo4k-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Duo 4K SE",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Duo 4K SE (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuduo4kse-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Solo 2",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Solo 2 (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vusolo-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Solo 2",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Solo 2 (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vusolo2-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Solo 4K",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Solo 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vusolo4k-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Solo SE",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Solo SE (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vusolose-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز Enigma2 Device",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز Enigma2 Device (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuultimo-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Ultimo 4K",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Ultimo 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuultimo4k-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز Enigma2 Device",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز Enigma2 Device (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuuno-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Uno 4K",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Uno 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuuno4k-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Uno 4K SE",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Uno 4K SE (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuuno4kse-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Zero",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Zero (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuzero-20230716_usb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OpenVision 3.11 لجهاز VU+ Zero 4K",
-                        "description": "صورة نظام OpenVision 3.11 الرسمية لجهاز VU+ Zero 4K (USB)",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openvision-e2-develop-py3.11-13.1-r549-vuzero4k-20230716_usb.zip",
-                        "image": ""
+                        "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/system_images/OpenVision/k",
+                        "image": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/images/key_blue.png"
                     }
                 ]
             }
@@ -1010,73 +261,19 @@
             {
                 "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
                 "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/Picon%207.ow.zip",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/picons/Picon%207.ow.zip",
                 "image": ""
             },
             {
                 "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
                 "description": "100x60 شعارات اغلب الاقمار ابيض اللون",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2026-10-09--22-58-20_all.ipk",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/picons/enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2026-10-09--22-58-20_all.ipk",
                 "image": ""
             },
             {
                 "name": "nb",
                 "description": "Picons Package",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/picons/nb",
-                "image": ""
-            },
-            {
-                "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
-                "description": "220x132 شعارات ابيض بحجم",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection_2026-10-09--22-58-20_all.ipk",
-                "image": ""
-            },
-            {
-                "name": "2026-10-09 بيكونات اغلب الاقمار بتاريخ",
-                "description": "220x132 شعارات شفاف بحجم",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent_2026-10-09--22-58-20_all.ipk",
-                "image": ""
-            },
-            {
-                "name": "بيكونات قمر هوتبيرد (Hotbird 13E)",
-                "description": "شعارات وقنوات القمر الأوروبي هوتبيرد 13 شرق",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/picon-13E.zip",
-                "image": ""
-            },
-            {
-                "name": "حزمة البيكونات الشاملة لكافة الاقمار ملف اخر",
-                "description": "بيكونات  قمر متحرك",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/picon.zip",
-                "image": ""
-            },
-            {
-                "name": "بيكونات قمر يوتلسات (Eutelsat 16E)",
-                "description": "شعارات قنوات قمر يوتلسات 16 شرق بدقة عالية",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/picon_16.0E.zip",
-                "image": ""
-            },
-            {
-                "name": "بيكونات قمر عربسات بدر (Badr 26E)",
-                "description": "شعارات وقنوات قمر عربسات بدر 26 شرق",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/picon_26.zip",
-                "image": ""
-            },
-            {
-                "name": "بيكونات قمر هيلاسات (Hellas Sat 39E)",
-                "description": "شعارات وقنوات قمر هيلاسات 39 شرق الرياضي",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/picon_39E.zip",
-                "image": ""
-            },
-            {
-                "name": "بيكونات قمر نايل سات (Nilesat 7W / 8W)",
-                "description": "شعارات ولوجوهات قنوات نايل سات بجودة عالية وشفافة",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/picon_8.0W.zip",
-                "image": ""
-            },
-            {
-                "name": "حزمة البيكونات الشاملة (جميع الأقمار)",
-                "description": "مجموعة شعارات القنوات الشاملة لمعظم الأقمار الفضائية",
-                "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/picon_ALL.zip",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/picons/nb",
                 "image": ""
             }
         ],
@@ -1084,37 +281,37 @@
             {
                 "name": "channels_MohamedStore_Arabic",
                 "description": "مفضلة وملف قنوات خاص بالبنل",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_MohamedStore_Arabic%20.tar.gz",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/channels_MohamedStore_Arabic%20.tar.gz",
                 "image": ""
             },
             {
                 "name": "channels_backup by tarekalashry-ag",
                 "description": "مفضلة وقنوات الاخ طارق",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_backup%20by%20tarekalashry-ag.zip",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/channels_backup%20by%20tarekalashry-ag.zip",
                 "image": ""
             },
             {
                 "name": "ملف backup قنوات ومفضلات صورة OpenATV",
                 "description": "نسخة احتياطية لقائمة القنوات والمفضلات الرياضية والعامة",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/channels_backup_openATV_20260602_000828.tar.gz",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/channels_backup_openATV_20260602_000828.tar.gz",
                 "image": ""
             },
             {
                 "name": "Channels Hotbird 13E (Morph883)",
                 "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-13e-160826_160826-r1_noarch.ipk",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/e2-morph883-13e-160826_160826-r1_noarch.ipk",
                 "image": ""
             },
             {
                 "name": "Channels motor  (Morph883)",
                 "description": "ملف قنوات ومفضلات مرتب وشامل من إعداد Morph883",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/e2-morph883-motor-160826_160826-r1_noarch.ipk",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/e2-morph883-motor-160826_160826-r1_noarch.ipk",
                 "image": ""
             },
             {
                 "name": "o",
                 "description": "Channels Settings",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/channels/o",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/channels/o",
                 "image": ""
             }
         ],
@@ -1122,7 +319,7 @@
             {
                 "name": "u",
                 "description": "Novaler Package",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/novaler/u",
+                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/novaler/u",
                 "image": ""
             }
         ]
