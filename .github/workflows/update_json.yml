@@ -1,0 +1,51 @@
+name: Auto Update JSON
+
+on:
+  push:
+    paths:
+      - 'feed/index.json'
+      - 'feed/metadata_store.json'
+      - 'plugins/**'
+      - 'skins/**'
+      - 'tools/**'
+      - 'system_images/**'
+      - 'novaler/**'
+      - 'picons/**'
+      - 'channels/**'
+      - 'generate_index.py'
+      
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Pull latest remote changes
+        run: |
+          git pull origin main --rebase || true
+
+      - name: Generate index
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate_index.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed/index.json feed/metadata_store.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update json index and metadata [skip ci]" && git push origin main)
