@@ -156,21 +156,21 @@ def scale_skin_layout(xml_layout):
     out = re.sub(r'borderWidth="(\d+)"', _sub_border, out)
     return out
 
-VERSION_URL = "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/version.json"
-STORE_URL = "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/feed/index.json"
-UPDATE_SCRIPT_CMD = "wget -O - https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/install.sh | sh"
+VERSION_URL = "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/version.json"
+STORE_URL = "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/feed/index.json"
+UPDATE_SCRIPT_CMD = "wget -O - https://raw.githubusercontent.com/tarek1902/MohamedStore/main/install.sh | sh"
 PLUGIN_VERSION = "1.3.2"
 
 try:
     PLUGIN_DIR = os.path.dirname(__file__)
 except NameError:
-    PLUGIN_DIR = "/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore"
+    PLUGIN_DIR = "/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel"
 
 CACHE_FILE = os.path.join(PLUGIN_DIR, "store_cache.json")
 ICON_FOLDER = os.path.join(PLUGIN_DIR, "images", "Icons")
-FALLBACK_ICON_FOLDER = "/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/Icons"
+FALLBACK_ICON_FOLDER = "/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/Icons"
 PROGRESS_PNG_PATH = os.path.join(PLUGIN_DIR, "images", "progress.png")
-FALLBACK_PROGRESS_PNG = "/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/progress.png"
+FALLBACK_PROGRESS_PNG = "/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/progress.png"
 
 def ensure_gradient_progress_png():
     """Generates an auto-scaled multi-color gradient progress bar PNG"""
