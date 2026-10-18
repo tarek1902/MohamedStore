@@ -4,7 +4,7 @@ import re
 import urllib.request
 from urllib.parse import quote, unquote
 
-GITHUB_USER = "wwwgoper77-wq"
+GITHUB_USER = "tarek1902"
 REPO_NAME = "MohamedStore"
 BASE_URL = f"https://raw.githubusercontent.com/{GITHUB_USER}/{REPO_NAME}/main"
 
