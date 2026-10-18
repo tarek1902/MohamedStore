@@ -14426,5 +14426,29 @@
     "system_images/m": {
         "name": "OpenATV - m",
         "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "system_images/system_images/OpenVision/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "system_images/k": {
+        "name": "OpenVision - k",
+        "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
     }
 }
