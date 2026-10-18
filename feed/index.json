@@ -57,6 +57,24 @@
                 "name": "All",
                 "items": [
                     {
+                        "name": "MX HC2 MOD By RAED",
+                        "description": "سكين MX HC2 MOD By RAED عالي الدقة FHD بتصميم أنيق وخفيف",
+                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MX-HC2-MOD-By-RAED.ipk",
+                        "image": ""
+                    },
+                    {
+                        "name": "MohammedSkin",
+                        "description": "الصور المدعومه OpenBH، OpenViX، OpenATV، PurE2، EGAMI",
+                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/MohammedSkin.sh",
+                        "image": ""
+                    },
+                    {
+                        "name": "BEIN BLACK NP FHD By Muaath",
+                        "description": "سكين Skin-BEIN-BLACK-NP-FHD-By-Muaath عالي الدقة FHD بتصميم أنيق وخفيف",
+                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/Skin-BEIN-BLACK-NP-FHD-By-Muaath.ipk",
+                        "image": ""
+                    },
+                    {
                         "name": "n",
                         "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف",
                         "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/n",
