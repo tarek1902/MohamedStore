@@ -6,6 +6,7 @@ on:
       - 'feed/index.json'
       - 'feed/metadata_store.json'
       - 'plugins/**'
+       - 'panels/**'
       - 'skins/**'
       - 'tools/**'
       - 'system_images/**'
