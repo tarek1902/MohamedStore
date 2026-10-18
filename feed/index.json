@@ -57,6 +57,12 @@
                 "name": "All",
                 "items": [
                     {
+                        "name": "n",
+                        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف",
+                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/n",
+                        "image": ""
+                    },
+                    {
                         "name": "armynextgengradient",
                         "description": "سكين OpenBlack-armynextgengradient عالي الدقة FHD بتصميم أنيق وخفيف",
                         "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/OpenBlack-skin-armynextgengradient.mod.fhroma_BlackHole.ipk",

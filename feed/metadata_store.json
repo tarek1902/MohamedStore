@@ -14450,5 +14450,29 @@
     "system_images/k": {
         "name": "OpenVision - k",
         "description": "صورة نظام OpenVision لأجهزة الإنيجما 2"
+    },
+    "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "skins/skins/All/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
+    },
+    "skins/n": {
+        "name": "n",
+        "description": "سكين n عالي الدقة FHD بتصميم أنيق وخفيف"
     }
 }
