@@ -14402,5 +14402,29 @@
     "system_images/All/vuzero4k-PurE2-7.6-20260817_usb.zip": {
         "name": "صورة PURE2 لجهاز VUZERO4K",
         "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز VUZERO4K"
+    },
+    "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "system_images/system_images/OpenATV/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
+    },
+    "system_images/m": {
+        "name": "OpenATV - m",
+        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2"
     }
 }

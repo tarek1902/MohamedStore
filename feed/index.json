@@ -292,36 +292,6 @@
                         "image": ""
                     },
                     {
-                        "name": "صورة OPENATV لجهاز VUDUO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUDUO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuduo4k-20260813_system_imagesusb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENATV لجهاز VUSOLO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUSOLO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vusolo4k-20260810_system_imagesusb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENATV لجهاز VUULTIMO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUULTIMO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuultimo4k-20260812_system_imagesusb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENATV لجهاز VUUNO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUUNO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuuno4k-20260812_system_imagesusb.zip",
-                        "image": ""
-                    },
-                    {
-                        "name": "صورة OPENATV لجهاز VUZERO4K",
-                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUZERO4K",
-                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuzero4k-20260811_system_imagesusb.zip",
-                        "image": ""
-                    },
-                    {
                         "name": "صورة OPENBH لجهاز VUDUO4K",
                         "description": "صورة نظام OPENBH الرسمية المحدثة لجهاز VUDUO4K",
                         "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openbh-6.0.001.system_images-vuduo4k-8c6baf54_usb.zip",
@@ -955,6 +925,47 @@
                         "name": "صورة PURE2 لجهاز VUZERO4K",
                         "description": "صورة نظام PURE2 الرسمية المحدثة لجهاز VUZERO4K",
                         "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/vuzero4k-PurE2-7.6-20260817_usb.zip",
+                        "image": ""
+                    }
+                ]
+            },
+            {
+                "name": "OpenATV",
+                "items": [
+                    {
+                        "name": "OpenATV - m",
+                        "description": "صورة نظام OpenATV لأجهزة الإنيجما 2",
+                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/system_images/OpenATV/m",
+                        "image": ""
+                    },
+                    {
+                        "name": "صورة OPENATV لجهاز VUDUO4K",
+                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUDUO4K",
+                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuduo4k-20260813_system_imagesusb.zip",
+                        "image": ""
+                    },
+                    {
+                        "name": "صورة OPENATV لجهاز VUSOLO4K",
+                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUSOLO4K",
+                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vusolo4k-20260810_system_imagesusb.zip",
+                        "image": ""
+                    },
+                    {
+                        "name": "صورة OPENATV لجهاز VUULTIMO4K",
+                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUULTIMO4K",
+                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuultimo4k-20260812_system_imagesusb.zip",
+                        "image": ""
+                    },
+                    {
+                        "name": "صورة OPENATV لجهاز VUUNO4K",
+                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUUNO4K",
+                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuuno4k-20260812_system_imagesusb.zip",
+                        "image": ""
+                    },
+                    {
+                        "name": "صورة OPENATV لجهاز VUZERO4K",
+                        "description": "صورة نظام OPENATV الرسمية المحدثة لجهاز VUZERO4K",
+                        "file": "https://github.com/wwwgoper77-wq/MohamedStore/releases/download/v1.0/openatv-8.0.0-beta-vuzero4k-20260811_system_imagesusb.zip",
                         "image": ""
                     }
                 ]
