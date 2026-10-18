@@ -222,6 +222,58 @@
             }
         ],
         "panels": [],
+		"items": [
+                    {
+                        "name": "epanel",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://gitlab.com/eliesat/extensions/-/raw/main/epanel/epanel.sh",
+                        "image": ""
+					},
+                    { 
+                    
+                        "name": "smartpanelfree",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh",
+                        "image": ""
+                    },
+                    {
+                        "name": "EnigmaPlay-Repo",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/install.sh",
+                        "image": ""
+                    },
+                    {
+                        "name": "Free-Panel",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/EMAILPANEL/Free-Panel.sh",
+                        "image": ""
+					},
+                    {
+                        "name": "tarek-panel",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/tarek-panel.sh",
+                        "image": ""
+					},
+                    {
+                        "name": "ELISATPANEL",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/ELISATPANEL/insal-oldpanel.sh",
+                        "image": ""
+					},
+                    {
+                        "name": "EnigmaPlay-tarek",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://raw.githubusercontent.com/tarek1902/EnigmaPlay-Repo/refs/heads/main/EnigmaPlay.sh",
+                        "image": ""
+					},
+                    {
+                        "name": "CiefpsettingsPanel",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh.sh",
+                        "image": ""
+                    }
+                  ],
+
         "skins": [
             {
                 "name": "All",
