@@ -4,12 +4,187 @@
     "categories": {
         "plugins": [
             {
-               "name": "AJPanel",
+                "name": "AJPanel",
                 "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2",
-                "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/AJPanel.sh",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/AJPanel.sh",
                 "image": ""
             },
             {
+                "name": "Akwam",
+                "description": "بلجن اكوام خاص بالبنل",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Akwam.zip",
+                "image": ""
+            },
+            {
+                "name": "Alkuds ipaudio MAC Xtreme",
+                "description": "تشغيل ملفات M3U وملفات اخرى",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Alkuds%20ipaudio%20MAC%20Xtreme.sh",  
+                "image": ""
+            }, 
+            {
+                "name": "ipaudiopro_1.7",
+                "description": "تشغيل ملفات M3U وملفات اخرى",
+                "file": "https://raw.githubusercontent.com/tarekzoka/ipaudiopro1.2/refs/heads/main/ipaudiopro_1.7.sh",
+                "image": ""
+
+            }, 
+            {
+                "name": "AlMuazin",
+                "description": "تشغيل ملفات M3U وملفات اخرى",
+                "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/AlMuaddhin/almoaddhin.sh",
+                "image": ""
+
+            }, 
+            {
+                "name": "ipaudiopro_1.8",
+                "description": "تشغيل ملفات M3U وملفات اخرى",
+                "file": "https://raw.githubusercontent.com/tarekzoka/ipaudiopro1.2/refs/heads/main/ipaudio_1.8.sh",
+                "image": ""
+                
+            }, 
+            {
+                "name": "IPAudioPlus",
+                "description": "تشغيل ملفات M3U وملفات اخرى",
+                "file": "https://raw.githubusercontent.com/tarekzoka/IPAudioPlus/refs/heads/main/installer.sh",
+                "image": ""
+            },
+            {
+                "name": "Arabic Savior",
+                "description": "إصلاح وعرض اللغة العربية بشكل سليم في القوائم والترجمات",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/ArabicSavior.zip",
+                "image": ""
+				
+				},
+            {
+                "name": "smartpanelfree",
+                "description": "بانل مميز",
+                "file": "https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh",
+                "image": ""
+				
+				},
+            {
+                "name": "EnigmaPlay-Repo",
+                "description": "بانل مميز",
+                "file": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/install.sh",
+                "image": ""
+				
+				},
+            {
+                "name": "EnigmaPlay-tarek",
+                "description": "بانل مميز",
+                "file": "https://raw.githubusercontent.com/tarek1902/EnigmaPlay-Repo/refs/heads/main/EnigmaPlay.sh",
+                "image": ""
+            },
+            {
+                "name": "Arabseed",
+                "description": "بلجن عرب سيد خاص بالبنل",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Arabseed.zip",
+                "image": ""
+            },
+            {
+                "name": "Ciefp Plugins",
+                "description": "لوحة إضافات Ciefp",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Ciefp%20Plugins.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpChannelManager",
+                "description": "مدير القنوات",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpChannelManager.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpE2editor",
+                "description": "محرر قنوات دون الحاجة للكمبيوتر",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpE2editor.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpOscamEditor",
+                "description": "محرر برنامج Ciefp Oscam",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpOscamEditor.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpParabolaCZ",
+                "description": "موقع Parabola.cz لعرض الصور (الأقمار الصناعية، والحزم، والأخبار)",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpParabolaCZ.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpPiconManager",
+                "description": "مدير البيكونات",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpPiconManager.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpRottenTomatoes",
+                "description": "عرض معلومات الافلام والبرامج التلفزيونية من موقع Rotten Tomatoes",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpRottenTomatoes.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpSatelliteAnalyzer",
+                "description": "عرض جميع المعلومات المتعلقة بالقناة الحالية",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpSatelliteAnalyzer.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpScreenGrab",
+                "description": "بلجن اخذ لقطة شاشة",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpScreenGrab.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpSignalInfo",
+                "description": "لعرض معلومات الاشارة والقناة",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpSignalInfo.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpTvProgramSBB",
+                "description": "يقوم بتنزيل بيانات دليل البرامج الإلكتروني (EPG) من موقع epgshare01.online بصيغة XML",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpTvProgramSBB.sh",
+                "image": ""
+            },
+            {
+                "name": "CiefpVideoPlayer",
+                "description": "مشغل الفديو",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/CiefpVideoPlayer.sh",
+                "image": ""
+            },
+            {
+                "name": "E2 Biss Key Editor",
+                "description": "محرر شفرات البيس Biss وتعديلها بسهولة عبر الريموت",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/E2BissKeyEditor.zip",
+                "image": ""
+            },
+            {
+                "name": "EPG Grabber",
+                "description": "جلب وتحميل الدليل الإلكتروني للبرامج EPG للقنوات الفضائية",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/EPGGrabber.zip",
+                "image": ""
+            },
+            {
+                "name": "EPG Translator",
+                "description": "ترجمة نصوص ومعلومات الدليل الإلكتروني EPG إلى العربية فورياً",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/EPGTranslator.zip",
+                "image": ""
+            },
+            {
+                "name": "Fury Biss",
+                "description": "جلب وتحديث شفرات البيس للقنوات المشفرة تلقائياً عبر الإنترنت",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/FuryBiss.zip",
+                "image": ""
+            },
+            {
+                "name": "GT IPTV playerpro",
+                "description": "بلجن خفيف اشتراكات وبورتلات",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/GT%20IPTV%20playerpro.ipk",
+                "image": ""
+            },
+            {
+
                 "name": "AJPanel",
                 "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2",
                 "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/AJPanel.sh",
