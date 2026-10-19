@@ -222,8 +222,9 @@
             }
         ],
         "panels": [],
-		"items": [
-                    {
+		{
+                "name": "All",
+                "items": [
                         "name": "epanel",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/eliesat/extensions/-/raw/main/epanel/epanel.sh",
