@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # =========================================================================
-# Mohamed Store - Universal Auto-Scaling Edition (Vu+, Dreambox, 4K, FHD, HD)
+# Tarek-panel - Universal Auto-Scaling Edition (Vu+, Dreambox, 4K, FHD, HD)
 # Compatible with: OpenATV, OpenPLi, Egami, BlackHole, OBH, VTi, DreamOS (OE2.5/2.6)
 # Python 2.7 & Python 3.x (3.9 - 3.12) Universal Support
 # =========================================================================
@@ -1015,7 +1015,7 @@ def load_json_network(url):
 
 # Base Full HD reference XML layout
 RAW_SKIN_LAYOUT = """
-<screen name="MohamedStore" position="center,center" size="1724,920" title="Mohamed Store" flags="wfNoBorder">
+<screen name="Tarek-panel" position="center,center" size="1724,920" title="Tarek-panel" flags="wfNoBorder">
     <eLabel position="0,0" size="1724,920" backgroundColor="#05070c" zPosition="-11" />
     <ePixmap position="0,0" size="1724,920" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/background.png" zPosition="-10" transparent="0" alphatest="off" />
 
@@ -2889,7 +2889,7 @@ class MohamedStore(Screen):
         self.session.openWithCallback(
             self.run_install_script,
             MessageBox,
-            "Do you want to update Mohamed Store using online script?",
+            "Do you want to update Tarek-panel using online script?",
             MessageBox.TYPE_YESNO
         )
 
@@ -2901,8 +2901,8 @@ class MohamedStore(Screen):
 
     def start_script_update(self):
         self.install_cmd = "chmod +x /tmp/install.sh && /tmp/install.sh && rm -f /tmp/install.sh"
-        self.install_item_name = "Mohamed Store Update Script"
-        self.download_url = "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/install.sh"
+        self.install_item_name = "Tarek-panel Update Script"
+        self.download_url = "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/tarek-panel.sh"
         self.download_dest_path = "/tmp/install.sh"
         self.download_is_update_script = True
         self.download_is_system_image = False
@@ -2959,7 +2959,7 @@ class MohamedStore(Screen):
             self.session.openWithCallback(
                 self.restartGUICallback,
                 MessageBox,
-                "Mohamed Store updated successfully via script!\n\nRestart GUI now?",
+                "Tarek-panel updated successfully via script!\n\nRestart GUI now?",
                 MessageBox.TYPE_YESNO
             )
         else:
@@ -3547,7 +3547,7 @@ class MohamedStore(Screen):
             
             if self.download_is_update_script:
                 self.download_is_update_script = False
-                self["description"].setText("Executing Mohamed Store Update Script...\nPlease wait...")
+                self["description"].setText("Executing Tarek-panel Update Script...\nPlease wait...")
                 try:
                     self["progress"].setValue(100)
                     self["percentage"].setText("100%")
@@ -3689,7 +3689,7 @@ def main(session, **kwargs):
 def Plugins(**kwargs):
     return [
         PluginDescriptor(
-            name="Mohamed Store",
+            name="Tarek-panel",
             description="Download and install addons, plugins, and softcams",
             where=PluginDescriptor.WHERE_PLUGINMENU,
             icon="plugin.png",
