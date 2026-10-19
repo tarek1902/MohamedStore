@@ -219,13 +219,14 @@
                 "description": "ترجمة سريعة للقوائم والأحداث والمحتوى التلفزيوني",
                 "file": "https://raw.githubusercontent.com/tarek1902/MohamedStore/main/plugins/mytranslator_1.74.ipk",
                 "image": ""
-            }
-        ],
-        "panels": [],
-		{
+             }
+                  ],
+
+        "panels": [
+            {
                 "name": "All",
                 "items": [
-				{
+                    {
                         "name": "epanel",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/eliesat/extensions/-/raw/main/epanel/epanel.sh",
