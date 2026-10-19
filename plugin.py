@@ -140,8 +140,8 @@ def scale_skin_layout(xml_layout):
     out = re.sub(r'borderWidth="(\d+)"', _sub_border, out)
     return out
 
-VERSION_URL = "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/version.json"
-STORE_URL = "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/feed/index.json"
+VERSION_URL = "https://raw.githubusercontent.com/tarek1902/MohamedStore/refs/heads/main/version.json"
+STORE_URL = "https://raw.githubusercontent.com/tarek1902/MohamedStore/refs/heads/main/feed/index.json"
 UPDATE_SCRIPT_CMD = "wget -O - https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/install.sh | sh"
 PLUGIN_VERSION = "1.3.2"
 
