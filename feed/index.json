@@ -905,15 +905,13 @@
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/tarek-panel.sh",
                         "image": ""
-			}, 
-                          {
+			        }, 
+                    {
                         "name": "levi-45-panel",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://raw.githubusercontent.com/levi-45/Addon/refs/heads/main/installer.sh",
-
                         "image": ""
-
-                 },
+                    },
 
                     {
                         "name": "ELISATPANEL",
@@ -926,12 +924,59 @@
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://raw.githubusercontent.com/tarek1902/EnigmaPlay-Repo/refs/heads/main/EnigmaPlay.sh",
                         "image": ""
+					}
+                ]
+            },
+            {
+                "name": "Tooles-ادوات هامه",
+                "items": [
+                    {
+                       "name": "Fox&Anis",
+                        "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و",
+                        "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox%26Anis.sh",
+                        "image": ""
 					},
                     {
-                        "name": "CiefpsettingsPanel",
-                        "description": "panel-بانل ممتاز شامل",
-                        "file": "https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh.sh",
+                        "name": "serviceapp",
+                        "description": "tooles-ادوات هامه",
+                        "file": "https://raw.githubusercontent.com/tarekzoka/serviceapp/refs/heads/main/serviceapp.sh",
                         "image": ""
+					},
+                    {
+                        "name": "password-to-root",
+                        "description": "tooles-ادوات هامه",
+                        "file": "https://raw.githubusercontent.com/tarekzoka/enigma2-servise/main/change-password-to-root.sh",
+						  "image": ""
+					},
+                    {
+                        "name": "ArabicSavior2",
+                        "description": "tooles-ادوات هامه",
+                        "file": "https://raw.githubusercontent.com/tarekzoka/ArabicSavior/main/ArabicSavior2.sh",
+						  "image": ""
+					},
+                    {
+                        "name": "repair-hdd",
+                        "description": "tooles-ادوات هامه",
+                        "file": "https://raw.githubusercontent.com/tarekzoka/enigma2-servise/refs/heads/main/repair-hdd.sh",
+						  "image": ""
+					},
+                    {
+                        "name": "TOOLSvertualkeyboard",
+                        "description": "tooles-ادوات هامه",
+                        "file": "https://raw.githubusercontent.com/tarekzoka/Tooles/main/TOOLSvertualkeyboard.sh",
+						  "image": ""
+					},
+                    {
+                        "name": "installer-ar",
+                        "description": "tooles-ادوات هامه",
+                        "file": "https://raw.githubusercontent.com/biko-73/AjPanel/main/installer-ar.sh",
+                        "image": ""
+					},
+                    {
+                        "name": "wget-curl-opkg",
+                        "description": "tooles-ادوات هامه",
+                        "file": "https://raw.githubusercontent.com/tarekzoka/Tooles/main/1TOOL-wget-curl-opkg-toles.sh",
+                         "image": ""
                     },
                     {
                    
@@ -950,7 +995,7 @@
                         "description": "ملف نظيف في بلجن IPAUDioPRO Foxصوتيات انيس و",
                         "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/audio/Fox%26Anis.sh",
                         "image": ""
-						},
+					},
                     {
                    
                         "name": "Fox-Anis-ahmad yahia-Quran",
