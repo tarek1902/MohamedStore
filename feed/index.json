@@ -905,7 +905,16 @@
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/tarek-panel.sh",
                         "image": ""
-					},
+			}, 
+                          {
+                        "name": "levi-45-panel",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://raw.githubusercontent.com/levi-45/Addon/refs/heads/main/installer.sh",
+
+                        "image": ""
+
+                 },
+
                     {
                         "name": "ELISATPANEL",
                         "description": "panel-بانل ممتاز شامل",
