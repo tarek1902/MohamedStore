@@ -20,6 +20,12 @@
                 "description": "تشغيل ملفات M3U وملفات اخرى",
                 "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Alkuds%20ipaudio%20MAC%20Xtreme.sh",  
                 "image": ""
+			}, 
+            {
+                "name": "IPAudioPro-Releases",
+                "description": "تشغيل ملفات M3U وملفات اخرى",
+                "file": "https://raw.githubusercontent.com/zKhadiri/IPAudioPro-Releases-/refs/heads/main/installer.sh",
+                "image": ""
             }, 
             {
                 "name": "ipaudiopro_1.7",
