@@ -886,12 +886,26 @@
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/eliesat/extensions/-/raw/main/epanel/epanel.sh",
                         "image": ""
-					},
-                    { 
-                    
+		    },
+                    {                    
                         "name": "smartpanelfree",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh",
+                        "image": ""
+		    },
+                    { 
+                    
+                        "name": "MagicPanelMax",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://raw.githubusercontent.com/tarek1902/MagicPanelMax/refs/heads/main/installer.sh",
+                        "image": ""
+
+		    },
+                    { 
+                    
+                        "name": "PanelAIO",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://raw.githubusercontent.com/tarek1902/PanelAIO/refs/heads/main/PanelAIO.sh",
                         "image": ""
                     },
                     {
