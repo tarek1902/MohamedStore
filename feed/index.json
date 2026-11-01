@@ -1047,8 +1047,6 @@
                         "image": ""
                     },
                     {
-                    },
-                    {
                         "name": "fastopen_portal",
                         "description": "بورتال بلجن xstreamity مع صلاحيىة الانتهاء",
                         "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/portals/fastopen_portal.sh",
@@ -1081,6 +1079,9 @@
                 ]
             },
             {
+                "name": "OSCAM-NCAM",
+                "items": [
+                    {
                 "name": "تثبيت محاكي Ncam v15.8",
                 "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam",
                 "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/Ncam%20v15.8.sh",
