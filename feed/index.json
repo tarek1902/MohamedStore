@@ -877,30 +877,90 @@
                 ]
             }
         ],
-        "tools-panels": [
+        "tools-OSCAM-NCAM": [
             {
-                "name": "panels",
+                "name": "OSCAM-NCAM",
+                "items": [                   
+            {
+                "name": "enigma2-plugin-softcams-ncam-mips",
+                "description": "محاكي اوسكام ايمو",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/enigma2-plugin-softcams-ncam-mips_V10.0-r0_all.ipk",
+                "image": ""
+            },
+            {
+                "name": "تثبيت محاكي Ncam v15.8",
+                "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/Ncam%20v15.8.sh",
+                "image": ""
+            },
+            {
+                "name": "Oscam Emu Levi45 v11965",
+                "description": "محاكي أوسكام إيمو محدث بآخر الشفرات وكسر التشفير",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/enigma2-plugin-softcams-oscam-emu-levi45_11965-803_all.ipk",
+                "image": ""
+            },
+            {
+                "name": "Oscam Emu r802 v11878",
+                "description": "محاكي أوسكام إيمو مستقر وسريع في كسر التشفير",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/enigma2-plugin-softcams-oscam_11878-emu-r802_all.ipk",
+                "image": ""
+            },
+            {
+                "name": "Oscam Emu r803 v11886",
+                "description": "محاكي أوسكام إيمو محدث لفتح القنوات الفضائية",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/enigma2-plugin-softcams-oscam_11886-emu-r803_all.ipk",
+                "image": ""
+            },
+            {
+                "name": "Oscam ICam v11725",
+                "description": "محاكي أوسكام آيكام لتشغيل باقات وقنوات ICam",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/enigma2-plugin-softcams-oscamicam_11725-V9-Kitte888-V23Rev_all.ipk",
+                "image": ""
+            },
+            {
+                "name": "Oscam All Images r798 (ARM+MIPS)",
+                "description": "محاكي أوسكام الشامل لجميع الصور ومعالجات ARM و MIPS",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/enigma2-softcams-oscam-all-images_11.715-emu-r798-arm%2Bmips_all.ipk",
+                "image": ""
+            },
+            {
+                "name": "Oscam All Images r801 (ARM+MIPS)",
+                "description": "أحدث إصدار من أوسكام الشامل المتوافق مع كافة الصور",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/enigma2-softcams-oscam-all-images_11791-emu-801-arm%2Bmips_all.ipk",
+                "image": ""
+            },
+            {
+                "name": "إصلاح تجمد وانقطاع السيسكام",
+                "description": "ينظف الذاكرة العشوائية من الشفرات القديمة، ويضيف خيارات الثبات لملف الإعدادات، ثم يعيد تشغيل الايمو لتثبيت البث",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/fix_cccam_freeze.sh",
+                "image": ""          
+		    }
+            ]
+            }
+        ],
+        "tools-PANELS": [
+            {
+                "name": "PANELS",
                 "items": [
-                    {
-                        "name": "epanel",
-                        "description": "panel-بانل ممتاز شامل",
-                        "file": "https://gitlab.com/eliesat/extensions/-/raw/main/epanel/epanel.sh",
-                        "image": ""
-		    },
-                    {                    
+                    {                   
                         "name": "smartpanelfree",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh",
                         "image": ""
-		    },
+		            },
                     { 
                     
                         "name": "MagicPanelMax",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://raw.githubusercontent.com/tarek1902/MagicPanelMax/refs/heads/main/installer.sh",
                         "image": ""
-
-		    },
+					},
+                    { 
+					"name": "epanel",
+                        "description": "panel-بانل ممتاز شامل",
+                        "file": "https://gitlab.com/eliesat/extensions/-/raw/main/epanel/epanel.sh",
+                        "image": ""	
+		            },
                     { 
                     
                         "name": "PanelAIO",
