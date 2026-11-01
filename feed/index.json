@@ -194,6 +194,18 @@
                 "description": "بث واستقبال روابط وقنوات البث المباشر عبر الشبكة المنزلية",
                 "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/IPStreamer.zip",
                 "image": ""
+			},
+            {
+                "name": "تثبيت محاكي Ncam v15.8",
+                "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات Ncam",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/Ncam%20v15.8.sh",
+                "image": ""
+            },
+            {
+                "name": "OSCam 11964-VU",
+                "description": "محاكي اوسكام",
+                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/OSCam%2011964-VU",
+                "image": ""
             },
             {
                 "name": "Internet Speed",
