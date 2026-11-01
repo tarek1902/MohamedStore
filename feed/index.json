@@ -886,15 +886,8 @@
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/eliesat/extensions/-/raw/main/epanel/epanel.sh",
                         "image": ""
-		    }
-            ]
-            }
-        ],
-        "tools-OSCAM-NCAM": [
-            {
-                "name": "OSCAM-NCAM",
-                "items": [
-                    {                   
+		    },
+                    {                    
                         "name": "smartpanelfree",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh",
