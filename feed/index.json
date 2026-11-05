@@ -14,7 +14,14 @@
                 "description": "بلجن اكوام خاص بالبنل",
                 "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Akwam.zip",
                 "image": ""
-            },
+            }, 
+            {
+                "name": "MAKE-ADVANCED-BOOTLOGO",
+                "description": "صنع ملف بوت لوجو",
+                "file": "https://raw.githubusercontent.com/popking159/abls/main/installer.sh",
+                "image": ""
+
+            }, 
             {
                 "name": "Alkuds ipaudio MAC Xtreme",
                 "description": "تشغيل ملفات M3U وملفات اخرى",
@@ -40,6 +47,13 @@
                 "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/AlMuaddhin/almoaddhin.sh",
                 "image": ""
 
+            }, 
+            {
+                "name": "ipaudiopro_1.9",
+                "description": "تشغيل ملفات M3U وملفات اخرى",
+                "file": "https://raw.githubusercontent.com/tarek1902/IPAudioPro/refs/heads/main/IPAudioPro.sh",
+                "image": ""
+                
             }, 
             {
                 "name": "ipaudiopro_1.8",
