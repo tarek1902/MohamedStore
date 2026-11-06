@@ -8,7 +8,20 @@
                 "description": "لوحة تحكم شاملة ومدير ملفات وسكربتات وأدوات متقدمة للانيجما2",
                 "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/AJPanel.sh",
                 "image": ""
-            },
+             },
+            {
+                "name": "arabicsavior",
+                "description": "بلجن اللغه العربيه",
+                "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/arabic-savior/arabicsavior.sh",
+                "image": ""
+            }, 
+            {
+
+                "name": "QuranKareem",
+                "description": "بلجن القران الكريم",
+                "file": "https://raw.githubusercontent.com/tarek1902/QuranKareem/refs/heads/main/myinstaller.sh",
+                "image": ""
+            }, 
             {
                 "name": "Akwam",
                 "description": "بلجن اكوام خاص بالبنل",
@@ -956,13 +969,13 @@
             {
                 "name": "PANELS",
                 "items": [
-                    {                   
-                        "name": "smartpanelfree",
+                    {
+                        "name": "TAREK-PANEL",
                         "description": "panel-بانل ممتاز شامل",
-                        "file": "https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh",
+                        "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/tarek-panel.sh",
                         "image": ""
-		            },
-                    { 
+			        }, 
+                    {
                     
                         "name": "MagicPanelMax",
                         "description": "panel-بانل ممتاز شامل",
@@ -995,9 +1008,9 @@
                         "image": ""
 					},
                     {
-                        "name": "tarek-panel",
+                        "name": "smartpanelfree",
                         "description": "panel-بانل ممتاز شامل",
-                        "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/tarek-panel.sh",
+                        "file": "https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh",
                         "image": ""
 			        }, 
                     {
@@ -1005,9 +1018,23 @@
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://raw.githubusercontent.com/levi-45/Addon/refs/heads/main/installer.sh",
                         "image": ""
-                    },
+            },
+            {
+                "name": "tspanel",
+                "description": "بانل مميز",
+                "file": "https://dreambox4u.com/emilnabil237/plugins/tspanel/installer.sh",
+                "image": ""
+           
+            },
+            {
+                "name": "satvenuspanel",
+                "description": "بانل مميز",
+                "file": "https://dreambox4u.com/emilnabil237/plugins/satvenuspanel/installer.sh",
+                "image": ""
+            
+            },
+            {
 
-                    {
                         "name": "ELISATPANEL",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/ELISATPANEL/insal-oldpanel.sh",
