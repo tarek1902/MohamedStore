@@ -86,9 +86,17 @@
                 "description": "إصلاح وعرض اللغة العربية بشكل سليم في القوائم والترجمات",
                 "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/ArabicSavior.zip",
                 "image": ""
-				
-				},
+			
+            },
             {
+                "name": "SimplySports",
+                "description": "ماشاهده اوقات المباريات",
+                "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/SimplySports/SimplySports.sh",
+                "image": ""
+           
+            },
+            {
+
                 "name": "smartpanelfree",
                 "description": "بانل مميز",
                 "file": "https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh",
