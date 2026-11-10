@@ -140,9 +140,9 @@ def scale_skin_layout(xml_layout):
     out = re.sub(r'borderWidth="(\d+)"', _sub_border, out)
     return out
 
-VERSION_URL = "https://raw.githubusercontent.com/tarek1902/MohamedStore/refs/heads/main/version.json"
-STORE_URL = "https://raw.githubusercontent.com/tarek1902/MohamedStore/refs/heads/main/feed/index.json"
-UPDATE_SCRIPT_CMD = "wget -O - https://raw.githubusercontent.com/tarek1902/MohamedStore/refs/heads/main/install.sh | sh"
+VERSION_URL = "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/version.json"
+STORE_URL = "https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/feed/index.json"
+UPDATE_SCRIPT_CMD = "wget -O - https://gitlab.com/hanfy1971/plugin/-/raw/main/MohamedStore-panel/install.sh | sh"
 PLUGIN_VERSION = "1.3.2"
 
 try:
@@ -1017,7 +1017,7 @@ def load_json_network(url):
 RAW_SKIN_LAYOUT = """
 <screen name="Tarek-panel" position="center,center" size="1724,920" title="Tarek-panel" flags="wfNoBorder">
     <eLabel position="0,0" size="1724,920" backgroundColor="#05070c" zPosition="-11" />
-    <ePixmap position="0,0" size="1724,920" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/background.png" zPosition="-10" transparent="0" alphatest="off" />
+    <ePixmap position="0,0" size="1724,920" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/background.png" zPosition="-10" transparent="0" alphatest="off" />
 
     <!-- HEADER PANEL -->
     <eLabel position="20,15" size="1684,84" backgroundColor="#0f111a" zPosition="-1" />
@@ -1026,8 +1026,8 @@ RAW_SKIN_LAYOUT = """
     <eLabel position="1700,15" size="4,84" backgroundColor="#e11d48" zPosition="1" />
     <eLabel position="20,99" size="1684,2" backgroundColor="#e11d48" />
     
-    <ePixmap position="32,24" size="190,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/logo.png" zPosition="2" scale="1" transparent="1" alphatest="blend" />
-    <eLabel position="230,22" size="120,30" text="MOHAMED" font="Regular;24" foregroundColor="#f59e0b" backgroundColor="#0f111a" transparent="1" />
+    <ePixmap position="32,24" size="190,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/logo.png" zPosition="2" scale="1" transparent="1" alphatest="blend" />
+    <eLabel position="230,22" size="120,30" text="Tarek-panel" font="Regular;24" foregroundColor="#f59e0b" backgroundColor="#0f111a" transparent="1" />
     <eLabel position="350,22" size="90,30" text="STORE" font="Regular;24" foregroundColor="#38bdf8" backgroundColor="#0f111a" transparent="1" />
     <eLabel position="230,50" size="70,2" backgroundColor="#f59e0b" zPosition="2" />
     <eLabel position="300,50" size="70,2" backgroundColor="#38bdf8" zPosition="2" />
@@ -1098,8 +1098,8 @@ RAW_SKIN_LAYOUT = """
     <eLabel position="1686,558" size="2,110" backgroundColor="#ec4899" zPosition="2" />
     <eLabel position="1220,666" size="468,2" backgroundColor="#f59e0b" zPosition="2" />
     
-    <ePixmap position="1230,571" size="78,82" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/avatar.png" zPosition="3" scale="1" transparent="1" alphatest="blend" />
-    <ePixmap position="1316,571" size="82,82" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/qrcode.png" zPosition="3" scale="1" transparent="1" alphatest="blend" />
+    <ePixmap position="1230,571" size="78,82" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/avatar.png" zPosition="3" scale="1" transparent="1" alphatest="blend" />
+    <ePixmap position="1316,571" size="82,82" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/qrcode.png" zPosition="3" scale="1" transparent="1" alphatest="blend" />
     
     <eLabel position="1408,568" size="90,34" backgroundColor="#f59e0b" zPosition="2" />
     <eLabel position="1498,568" size="90,34" backgroundColor="#0284c7" zPosition="2" />
@@ -1121,7 +1121,7 @@ RAW_SKIN_LAYOUT = """
     <eLabel position="1454,788" size="117,2" backgroundColor="#a855f7" zPosition="2" />
     <eLabel position="1571,788" size="117,2" backgroundColor="#ec4899" zPosition="2" />
     
-    <widget name="progress" position="1236,686" size="436,14" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/progress.png" borderWidth="2" borderColor="#0284c7" backgroundColor="#1e1035" foregroundColor="#38bdf8" zPosition="3" />
+    <widget name="progress" position="1236,686" size="436,14" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/progress.png" borderWidth="2" borderColor="#0284c7" backgroundColor="#1e1035" foregroundColor="#38bdf8" zPosition="3" />
     <widget name="percentage" position="1236,705" size="120,22" font="Regular;22" foregroundColor="#fde047" backgroundColor="#0c0714" transparent="1" zPosition="3" halign="left" />
     <widget name="speed" position="1366,705" size="306,22" font="Regular;22" foregroundColor="#38bdf8" backgroundColor="#0c0714" transparent="1" zPosition="3" halign="right" />
     <widget name="size" position="1236,730" size="436,22" font="Regular;20" foregroundColor="#fbbf24" backgroundColor="#0c0714" transparent="1" zPosition="3" halign="center" />
@@ -1139,7 +1139,7 @@ RAW_SKIN_LAYOUT = """
     <eLabel position="40,824" size="3,68" backgroundColor="#e11d48" zPosition="2" />
     <eLabel position="432,824" size="3,68" backgroundColor="#e11d48" zPosition="2" />
     <eLabel position="40,890" size="395,2" backgroundColor="#e11d48" zPosition="2" />
-    <ePixmap position="56,836" size="44,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/key_red.png" scale="1" transparent="1" alphatest="blend" zPosition="3" />
+    <ePixmap position="56,836" size="44,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/key_red.png" scale="1" transparent="1" alphatest="blend" zPosition="3" />
     <widget name="key_red" position="114,824" size="311,68" font="Regular;28" foregroundColor="#ffffff" backgroundColor="#1e111d" transparent="1" zPosition="3" halign="left" valign="center" />
 
     <eLabel position="451,824" size="395,68" backgroundColor="#0d1f19" zPosition="1" />
@@ -1147,7 +1147,7 @@ RAW_SKIN_LAYOUT = """
     <eLabel position="451,824" size="3,68" backgroundColor="#059669" zPosition="2" />
     <eLabel position="843,824" size="3,68" backgroundColor="#059669" zPosition="2" />
     <eLabel position="451,890" size="395,2" backgroundColor="#059669" zPosition="2" />
-    <ePixmap position="467,836" size="44,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/key_green.png" scale="1" transparent="1" alphatest="blend" zPosition="3" />
+    <ePixmap position="467,836" size="44,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/key_green.png" scale="1" transparent="1" alphatest="blend" zPosition="3" />
     <widget name="key_green" position="525,824" size="311,68" font="Regular;28" foregroundColor="#ffffff" backgroundColor="#0d1f19" transparent="1" zPosition="3" halign="left" valign="center" />
 
     <eLabel position="862,824" size="395,68" backgroundColor="#1f180c" zPosition="1" />
@@ -1155,7 +1155,7 @@ RAW_SKIN_LAYOUT = """
     <eLabel position="862,824" size="3,68" backgroundColor="#d97706" zPosition="2" />
     <eLabel position="1254,824" size="3,68" backgroundColor="#d97706" zPosition="2" />
     <eLabel position="862,890" size="395,2" backgroundColor="#d97706" zPosition="2" />
-    <ePixmap position="878,836" size="44,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/key_yellow.png" scale="1" transparent="1" alphatest="blend" zPosition="3" />
+    <ePixmap position="878,836" size="44,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/key_yellow.png" scale="1" transparent="1" alphatest="blend" zPosition="3" />
     <widget name="key_yellow" position="936,824" size="311,68" font="Regular;28" foregroundColor="#ffffff" backgroundColor="#1f180c" transparent="1" zPosition="3" halign="left" valign="center" />
 
     <eLabel position="1273,824" size="395,68" backgroundColor="#0f152b" zPosition="1" />
@@ -1163,7 +1163,7 @@ RAW_SKIN_LAYOUT = """
     <eLabel position="1273,824" size="3,68" backgroundColor="#4f46e5" zPosition="2" />
     <eLabel position="1665,824" size="3,68" backgroundColor="#4f46e5" zPosition="2" />
     <eLabel position="1273,890" size="395,2" backgroundColor="#4f46e5" zPosition="2" />
-    <ePixmap position="1289,836" size="44,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MohamedStore/images/key_blue.png" scale="1" transparent="1" alphatest="blend" zPosition="3" />
+    <ePixmap position="1289,836" size="44,44" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/Tarek-panel/images/key_blue.png" scale="1" transparent="1" alphatest="blend" zPosition="3" />
     <widget name="key_blue" position="1347,824" size="311,68" font="Regular;28" foregroundColor="#ffffff" backgroundColor="#0f152b" transparent="1" zPosition="3" halign="left" valign="center" />
 </screen>
 """
