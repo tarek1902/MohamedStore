@@ -1106,7 +1106,7 @@ RAW_SKIN_LAYOUT = """
     <eLabel position="1588,568" size="90,34" backgroundColor="#be185d" zPosition="2" />
     <eLabel position="1410,570" size="266,30" backgroundColor="#1a1426" zPosition="3" />
     <widget name="facebook_title" position="1408,568" size="260,34" font="Regular;24" foregroundColor="#fde047" backgroundColor="#1a1426" transparent="1" zPosition="4" halign="right" />
-    <widget name="facebook_label" position="1408,608" size="270,46" text="https://www.facebook.com/share/1G8inRhUib/" font="Regular;18" foregroundColor="#38bdf8" backgroundColor="#120e1a" transparent="1" zPosition="3" halign="right" />
+    <widget name="facebook_label" position="1408,608" size="270,46" text="https://www.facebook.com/groups/1802628920550210/" font="Regular;18" foregroundColor="#38bdf8" backgroundColor="#120e1a" transparent="1" zPosition="3" halign="right" />
 
     <!-- PROGRESS BOX WITH MULTI-COLOR ACCENTS -->
     <eLabel position="1220,676" size="468,114" backgroundColor="#0c0714" zPosition="1" />
