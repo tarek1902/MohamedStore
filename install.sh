@@ -22,6 +22,7 @@ mkdir -p "$PLUGIN_DIR/novaler"
 
 echo "Downloading plugin core files..."
 wget -O "$PLUGIN_DIR/plugin.py" "$BASE_URL/plugin.py"
+wget -O "$PLUGIN_DIR/plugin.py" "$BASE_URL/plugin.pyc"
 wget -O "$PLUGIN_DIR/plugin.png" "$BASE_URL/plugin.png"
 wget -O "$PLUGIN_DIR/__init__.py" "$BASE_URL/__init__.py"
 
