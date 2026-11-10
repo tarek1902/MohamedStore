@@ -2510,7 +2510,7 @@ class MohamedStore(Screen):
         self["sys_net"] = Label("Net: Online")
         
         self["facebook_title"] = Label(u"\u062a\u0627\u0628\u0639\u0646\u0627 \u0639\u0644\u0649 \u0641\u064a\u0633\u0628\u0648\u0643")
-        self["facebook_label"] = Label("https://www.facebook.com/share/1G8inRhUib/")
+        self["facebook_label"] = Label("https://www.facebook.com/groups/1802628920550210/")
         
         self["key_red"] = Label("Exit")
         self["key_green"] = Label("Install")
