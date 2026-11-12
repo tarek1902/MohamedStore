@@ -37,9 +37,9 @@
                 "image": ""
             }, 
             {
-                "name": "MAKE-ADVANCED-BOOTLOGO",
+                "name": "BootLogoSwappe",
                 "description": "صنع ملف بوت لوجو",
-                "file": "https://raw.githubusercontent.com/popking159/abls/main/installer.sh",
+                "file": "https://raw.githubusercontent.com/tarek1902/BootLogoSwappe/refs/heads/main/boot-logo.sh",
                 "image": ""
 
             }, 
