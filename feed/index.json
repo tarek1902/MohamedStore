@@ -21,8 +21,16 @@
                 "description": "بلجن القران الكريم",
                 "file": "https://raw.githubusercontent.com/tarek1902/QuranKareem/refs/heads/main/myinstaller.sh",
                 "image": ""
-            }, 
+            },
             {
+                "name": "IPAudioPro-v2.0",
+                "description": "بلجن الصوتيات المميز",
+                "file": "https://raw.githubusercontent.com/tarek1902/IPAudioPro/refs/heads/main/IPAudioPro-v2.0.sh",
+                "image": ""
+           
+            },
+            {
+
                 "name": "Akwam",
                 "description": "بلجن اكوام خاص بالبنل",
                 "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Akwam.zip",
@@ -44,7 +52,7 @@
             {
                 "name": "IPAudioPro-Releases",
                 "description": "تشغيل ملفات M3U وملفات اخرى",
-                "file": "https://raw.githubusercontent.com/zKhadiri/IPAudioPro-Releases-/refs/heads/main/installer.sh",
+                "file": "https://raw.githubusercontent.com/Ahmadarjan1/IPAudioPlus-Releases/refs/heads/main/installer.sh",
                 "image": ""
             }, 
             {
