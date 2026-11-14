@@ -1010,8 +1010,16 @@
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://raw.githubusercontent.com/tarek1902/PanelAIO/refs/heads/main/PanelAIO.sh",
                         "image": ""
-                    },
-                    {
+                    }, 
+                   {
+                "name": "SkyBlueStore-panel",
+                "description": "بانل مميز",
+                "file": "https://raw.githubusercontent.com/tarek1902/SkyBlueStore/refs/heads/main/SkyBlueStore.sh",
+                "image": ""
+           
+            },
+            {
+
                         "name": "EnigmaPlay-Repo",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/install.sh",
