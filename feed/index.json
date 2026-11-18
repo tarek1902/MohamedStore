@@ -937,6 +937,14 @@
                 "image": ""
             },
             {
+                "name": "oscam11989",
+                "description": "سكربت تثبيت وتحديث أحدث إصدار من محاكي الشفرات ايمو اوسكام",
+                "file": "https://raw.githubusercontent.com/tarek1902/OSCAM-NCAM/refs/heads/main/ipk-deb.sh",
+                "image": ""
+            
+            },
+            {
+
                 "name": "Oscam Emu Levi45 v11965",
                 "description": "محاكي أوسكام إيمو محدث بآخر الشفرات وكسر التشفير",
                 "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/tools/enigma2-plugin-softcams-oscam-emu-levi45_11965-803_all.ipk",
