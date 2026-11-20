@@ -42,14 +42,16 @@
                 "file": "https://raw.githubusercontent.com/tarek1902/BootLogoSwappe/refs/heads/main/boot-logo.sh",
                 "image": ""
 
-            }, 
+            },
             {
-                "name": "Alkuds ipaudio MAC Xtreme",
-                "description": "تشغيل ملفات M3U وملفات اخرى",
-                "file": "https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/plugins/Alkuds%20ipaudio%20MAC%20Xtreme.sh",  
+                "name": "Alkuds-iptv",
+                "description": "افضل مشغل ميديا",
+                "file": "https://raw.githubusercontent.com/xximhxx/Alkuds-ipaudio-MAC-Xtreme-Player/refs/heads/main/installer.sh",
                 "image": ""
-			}, 
+           
+            },
             {
+
                 "name": "IPAudioPro-Releases",
                 "description": "تشغيل ملفات M3U وملفات اخرى",
                 "file": "https://raw.githubusercontent.com/Ahmadarjan1/IPAudioPlus-Releases/refs/heads/main/installer.sh",
