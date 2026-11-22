@@ -1041,7 +1041,15 @@
                         "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/EMAILPANEL/Free-Panel.sh",
                         "image": ""
 					},
-                    {
+            {
+                "name": "online4tech",
+                "description": "بانل مميز",
+                "file": "https://raw.githubusercontent.com/online4tech/Online4Tech-Panel1/refs/heads/main/install.sh",
+                "image": ""
+            
+            },
+            {
+
                         "name": "smartpanelfree",
                         "description": "panel-بانل ممتاز شامل",
                         "file": "https://gitlab.com/hanfy1971/panel-free/-/raw/main/smartpanelfree/smartpanelfree.sh",
