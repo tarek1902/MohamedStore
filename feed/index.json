@@ -77,8 +77,16 @@
                 "file": "https://raw.githubusercontent.com/tarek1902/IPAudioPro/refs/heads/main/IPAudioPro.sh",
                 "image": ""
                 
-            }, 
+             },
             {
+                "name": "myhits",
+                "description": "بلجن مميز للاغاني",
+                "file": "https://raw.githubusercontent.com/popking159/myhits/refs/heads/main/myinstaller.sh",
+                "image": ""
+           
+            },
+            {
+
                 "name": "ipaudiopro_1.8",
                 "description": "تشغيل ملفات M3U وملفات اخرى",
                 "file": "https://raw.githubusercontent.com/tarekzoka/ipaudiopro1.2/refs/heads/main/ipaudio_1.8.sh",
