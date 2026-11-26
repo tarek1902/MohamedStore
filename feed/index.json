@@ -107,6 +107,13 @@
 			
             },
             {
+                "name": "kanasastream-watch",
+                "description": "مشاهده افلام",
+                "file": "https://kanasastream.online/enigma2/install.sh",
+                "image": ""
+            
+            },
+            {
                 "name": "SimplySports",
                 "description": "ماشاهده اوقات المباريات",
                 "file": "https://gitlab.com/hanfy1971/plugin/-/raw/main/SimplySports/SimplySports.sh",
