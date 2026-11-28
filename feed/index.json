@@ -1107,6 +1107,13 @@
             
             },
             {
+                "name": "tspanel",
+                "description": "بانل مميز",
+                "file": "https://raw.githubusercontent.com/tarek1902/SmartAddonspanel/refs/heads/main/SMART-FREE-PANEL/smartpanelfree.sh",
+                "image": ""
+           
+            },
+            {
 
                         "name": "ELISATPANEL",
                         "description": "panel-بانل ممتاز شامل",
