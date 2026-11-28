@@ -1107,7 +1107,7 @@
             
             },
             {
-                "name": "tspanel",
+                "name": "SMART-FREE-PANEL",
                 "description": "بانل مميز",
                 "file": "https://raw.githubusercontent.com/tarek1902/SmartAddonspanel/refs/heads/main/SMART-FREE-PANEL/smartpanelfree.sh",
                 "image": ""
