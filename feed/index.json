@@ -84,8 +84,16 @@
                 "file": "https://raw.githubusercontent.com/popking159/myhits/refs/heads/main/myinstaller.sh",
                 "image": ""
            
+             },
+            {
+                "name": "e2player-mohamed-os",
+                "description": "مشاهده افلام",
+                "file": "https://raw.githubusercontent.com/MOHAMED19OS/Install_E2I/refs/heads/main/online-setup.sh",
+                "image": ""
+            
             },
             {
+
 
                 "name": "ipaudiopro_1.8",
                 "description": "تشغيل ملفات M3U وملفات اخرى",
